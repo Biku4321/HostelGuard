@@ -1,0 +1,1501 @@
+Date,Day,Weather,Menu,Attendance,Prepared_Kg,Portion_Per_Student,Wasted_Kg
+2022-01-01,Saturday,Cloudy,Mix Veg,143,57.2,0.4,1.85
+2022-01-02,Sunday,Rainy,Tinda Curry,143,57.2,0.4,24.19
+2022-01-03,Monday,Sunny,Chicken Biryani,186,111.6,0.6,37.59
+2022-01-04,Tuesday,Sunny,Rajma Chawal,160,96.0,0.6,33.26
+2022-01-05,Wednesday,Cloudy,Paneer Butter Masala,193,77.2,0.4,0.49
+2022-01-06,Thursday,Cloudy,Aloo Gobhi,171,54.72,0.32,1.71
+2022-01-07,Friday,Sunny,Chicken Biryani,189,60.48,0.32,0.4
+2022-01-08,Saturday,Rainy,Lauki Kofta,103,41.2,0.4,17.73
+2022-01-09,Sunday,Cloudy,Mix Veg,135,64.8,0.48,12.48
+2022-01-10,Monday,Sunny,Chicken Biryani,191,61.12,0.32,0.96
+2022-01-11,Tuesday,Sunny,Tinda Curry,162,64.8,0.39999999999999997,27.67
+2022-01-12,Wednesday,Rainy,Mix Veg,190,91.2,0.48000000000000004,17.15
+2022-01-13,Thursday,Rainy,Lauki Kofta,187,112.2,0.6,68.07
+2022-01-14,Friday,Cloudy,Rajma Chawal,192,92.16,0.48,15.85
+2022-01-15,Saturday,Rainy,Paneer Butter Masala,126,40.32,0.32,0.22
+2022-01-16,Sunday,Rainy,Paneer Butter Masala,108,43.2,0.4,1.02
+2022-01-17,Monday,Sunny,Mix Veg,190,91.2,0.48000000000000004,17.51
+2022-01-18,Tuesday,Cloudy,Chicken Biryani,160,96.0,0.6,32.38
+2022-01-19,Wednesday,Cloudy,Paneer Butter Masala,171,68.4,0.4,0.66
+2022-01-20,Thursday,Sunny,Chicken Biryani,171,68.4,0.4,0.67
+2022-01-21,Friday,Cloudy,Rajma Chawal,191,76.4,0.4,0.95
+2022-01-22,Saturday,Rainy,Mix Veg,146,58.4,0.39999999999999997,1.35
+2022-01-23,Sunday,Cloudy,Lauki Kofta,106,33.92,0.32,9.33
+2022-01-24,Monday,Rainy,Rajma Chawal,163,65.2,0.4,0.4
+2022-01-25,Tuesday,Sunny,Chicken Biryani,181,86.88,0.48,15.08
+2022-01-26,Wednesday,Sunny,Mix Veg,164,98.4,0.6000000000000001,34.86
+2022-01-27,Thursday,Cloudy,Tinda Curry,160,64.0,0.4,26.45
+2022-01-28,Friday,Sunny,Mix Veg,171,68.4,0.4,1.76
+2022-01-29,Saturday,Cloudy,Aloo Gobhi,144,86.4,0.6000000000000001,30.4
+2022-01-30,Sunday,Sunny,Tinda Curry,132,52.8,0.39999999999999997,21.95
+2022-01-31,Monday,Rainy,Chicken Biryani,173,69.2,0.4,1.06
+2022-02-01,Tuesday,Rainy,Lauki Kofta,175,105.0,0.6,64.04
+2022-02-02,Wednesday,Rainy,Mix Veg,180,72.0,0.4,1.54
+2022-02-03,Thursday,Rainy,Chicken Biryani,182,72.8,0.39999999999999997,0.92
+2022-02-04,Friday,Sunny,Mix Veg,177,106.2,0.6,37.45
+2022-02-05,Saturday,Cloudy,Lauki Kofta,144,86.4,0.6000000000000001,52.71
+2022-02-06,Sunday,Cloudy,Paneer Butter Masala,134,53.6,0.4,0.57
+2022-02-07,Monday,Rainy,Paneer Butter Masala,164,65.6,0.39999999999999997,0.65
+2022-02-08,Tuesday,Cloudy,Mix Veg,181,57.92,0.32,1.56
+2022-02-09,Wednesday,Rainy,Tinda Curry,168,67.2,0.4,28.68
+2022-02-10,Thursday,Rainy,Paneer Butter Masala,172,55.04,0.32,0.8
+2022-02-11,Friday,Sunny,Aloo Gobhi,173,55.36,0.32,1.23
+2022-02-12,Saturday,Sunny,Chicken Biryani,130,41.6,0.32,0.12
+2022-02-13,Sunday,Rainy,Aloo Gobhi,115,46.0,0.4,1.47
+2022-02-14,Monday,Rainy,Paneer Butter Masala,183,73.2,0.4,0.23
+2022-02-15,Tuesday,Sunny,Aloo Gobhi,186,89.28,0.48,16.56
+2022-02-16,Wednesday,Rainy,Mix Veg,166,66.4,0.4,1.83
+2022-02-17,Thursday,Rainy,Lauki Kofta,195,78.0,0.4,31.88
+2022-02-18,Friday,Sunny,Lauki Kofta,190,60.8,0.32,16.5
+2022-02-19,Saturday,Rainy,Mix Veg,100,60.0,0.6,21.6
+2022-02-20,Sunday,Rainy,Rajma Chawal,150,60.0,0.4,0.71
+2022-02-21,Monday,Cloudy,Aloo Gobhi,179,57.28,0.32,1.71
+2022-02-22,Tuesday,Rainy,Lauki Kofta,169,81.12,0.48000000000000004,41.24
+2022-02-23,Wednesday,Sunny,Chicken Biryani,191,76.4,0.4,0.21
+2022-02-24,Thursday,Rainy,Lauki Kofta,172,68.8,0.39999999999999997,28.35
+2022-02-25,Friday,Rainy,Mix Veg,168,53.76,0.32,1.39
+2022-02-26,Saturday,Rainy,Lauki Kofta,119,57.12,0.48,28.91
+2022-02-27,Sunday,Sunny,Lauki Kofta,130,41.6,0.32,10.83
+2022-02-28,Monday,Cloudy,Aloo Gobhi,169,67.6,0.39999999999999997,1.35
+2022-03-01,Tuesday,Sunny,Chicken Biryani,171,82.08,0.48,13.88
+2022-03-02,Wednesday,Cloudy,Rajma Chawal,195,117.0,0.6,40.12
+2022-03-03,Thursday,Rainy,Tinda Curry,190,76.0,0.4,31.54
+2022-03-04,Friday,Sunny,Lauki Kofta,189,75.6,0.39999999999999997,30.88
+2022-03-05,Saturday,Sunny,Mix Veg,112,44.8,0.39999999999999997,0.95
+2022-03-06,Sunday,Cloudy,Chicken Biryani,111,44.4,0.39999999999999997,0.11
+2022-03-07,Monday,Rainy,Lauki Kofta,182,109.2,0.6,66.13
+2022-03-08,Tuesday,Sunny,Paneer Butter Masala,182,58.24,0.32,0.85
+2022-03-09,Wednesday,Sunny,Chicken Biryani,196,78.4,0.4,0.18
+2022-03-10,Thursday,Rainy,Lauki Kofta,194,116.4,0.6,70.33
+2022-03-11,Friday,Sunny,Tinda Curry,161,77.28,0.48,39.83
+2022-03-12,Saturday,Sunny,Aloo Gobhi,146,58.4,0.39999999999999997,1.76
+2022-03-13,Sunday,Rainy,Rajma Chawal,131,52.4,0.39999999999999997,0.67
+2022-03-14,Monday,Rainy,Aloo Gobhi,160,64.0,0.4,1.81
+2022-03-15,Tuesday,Rainy,Mix Veg,177,106.2,0.6,37.41
+2022-03-16,Wednesday,Rainy,Mix Veg,188,90.24,0.48,17.38
+2022-03-17,Thursday,Cloudy,Rajma Chawal,184,88.32,0.48,15.98
+2022-03-18,Friday,Cloudy,Paneer Butter Masala,165,52.8,0.32,0.34
+2022-03-19,Saturday,Sunny,Tinda Curry,148,59.2,0.4,24.52
+2022-03-20,Sunday,Rainy,Rajma Chawal,143,57.2,0.4,0.6
+2022-03-21,Monday,Cloudy,Aloo Gobhi,198,95.04,0.48000000000000004,17.61
+2022-03-22,Tuesday,Cloudy,Rajma Chawal,194,77.6,0.39999999999999997,0.6
+2022-03-23,Wednesday,Cloudy,Mix Veg,169,81.12,0.48000000000000004,15.26
+2022-03-24,Thursday,Cloudy,Aloo Gobhi,179,85.92,0.48,16.16
+2022-03-25,Friday,Sunny,Tinda Curry,176,70.4,0.4,29.64
+2022-03-26,Saturday,Cloudy,Tinda Curry,143,68.64,0.48,35.26
+2022-03-27,Sunday,Cloudy,Rajma Chawal,135,81.0,0.6,27.63
+2022-03-28,Monday,Cloudy,Chicken Biryani,188,112.8,0.6,37.98
+2022-03-29,Tuesday,Sunny,Paneer Butter Masala,181,108.6,0.6,36.85
+2022-03-30,Wednesday,Rainy,Tinda Curry,161,64.4,0.4,26.91
+2022-03-31,Thursday,Sunny,Paneer Butter Masala,184,73.6,0.39999999999999997,0.74
+2022-04-01,Friday,Rainy,Tinda Curry,174,104.4,0.6,64.37
+2022-04-02,Saturday,Sunny,Lauki Kofta,116,37.12,0.31999999999999995,10.41
+2022-04-03,Sunday,Rainy,Aloo Gobhi,112,67.2,0.6,23.57
+2022-04-04,Monday,Cloudy,Aloo Gobhi,162,64.8,0.39999999999999997,1.28
+2022-04-05,Tuesday,Cloudy,Mix Veg,196,94.08,0.48,17.84
+2022-04-06,Wednesday,Cloudy,Paneer Butter Masala,166,66.4,0.4,0.75
+2022-04-07,Thursday,Rainy,Chicken Biryani,181,72.4,0.4,0.24
+2022-04-08,Friday,Sunny,Mix Veg,180,108.0,0.6,38.13
+2022-04-09,Saturday,Sunny,Rajma Chawal,139,44.48,0.31999999999999995,0.62
+2022-04-10,Sunday,Cloudy,Paneer Butter Masala,111,35.52,0.32,0.22
+2022-04-11,Monday,Cloudy,Rajma Chawal,179,71.6,0.39999999999999997,1.01
+2022-04-12,Tuesday,Cloudy,Mix Veg,187,74.8,0.39999999999999997,1.78
+2022-04-13,Wednesday,Cloudy,Chicken Biryani,160,96.0,0.6,32.8
+2022-04-14,Thursday,Sunny,Rajma Chawal,183,58.56,0.32,0.6
+2022-04-15,Friday,Rainy,Paneer Butter Masala,187,74.8,0.39999999999999997,0.52
+2022-04-16,Saturday,Sunny,Mix Veg,145,87.0,0.6,30.59
+2022-04-17,Sunday,Cloudy,Mix Veg,130,78.0,0.6,27.11
+2022-04-18,Monday,Rainy,Mix Veg,169,67.6,0.39999999999999997,2.28
+2022-04-19,Tuesday,Sunny,Aloo Gobhi,173,69.2,0.4,1.55
+2022-04-20,Wednesday,Sunny,Lauki Kofta,200,80.0,0.4,33.07
+2022-04-21,Thursday,Rainy,Lauki Kofta,181,72.4,0.4,30.28
+2022-04-22,Friday,Sunny,Lauki Kofta,165,66.0,0.4,27.32
+2022-04-23,Saturday,Rainy,Mix Veg,123,73.8,0.6,25.89
+2022-04-24,Sunday,Cloudy,Rajma Chawal,131,78.6,0.6,27.05
+2022-04-25,Monday,Rainy,Rajma Chawal,177,84.96,0.48,14.94
+2022-04-26,Tuesday,Cloudy,Mix Veg,200,120.0,0.6,42.06
+2022-04-27,Wednesday,Cloudy,Paneer Butter Masala,174,83.52,0.48,14.7
+2022-04-28,Thursday,Rainy,Rajma Chawal,162,64.8,0.39999999999999997,0.85
+2022-04-29,Friday,Cloudy,Lauki Kofta,177,56.64,0.32,15.58
+2022-04-30,Saturday,Cloudy,Chicken Biryani,105,42.0,0.4,1.02
+2022-05-01,Sunday,Rainy,Rajma Chawal,143,57.2,0.4,1.24
+2022-05-02,Monday,Cloudy,Aloo Gobhi,165,79.2,0.48000000000000004,15.15
+2022-05-03,Tuesday,Sunny,Paneer Butter Masala,190,60.8,0.32,0.67
+2022-05-04,Wednesday,Sunny,Tinda Curry,198,79.2,0.4,33.31
+2022-05-05,Thursday,Rainy,Paneer Butter Masala,166,53.12,0.32,0.27
+2022-05-06,Friday,Cloudy,Lauki Kofta,192,115.2,0.6,69.81
+2022-05-07,Saturday,Rainy,Paneer Butter Masala,148,59.2,0.4,0.5
+2022-05-08,Sunday,Sunny,Rajma Chawal,101,60.6,0.6,20.73
+2022-05-09,Monday,Sunny,Paneer Butter Masala,165,66.0,0.4,0.46
+2022-05-10,Tuesday,Cloudy,Chicken Biryani,197,78.8,0.39999999999999997,0.42
+2022-05-11,Wednesday,Cloudy,Chicken Biryani,163,65.2,0.4,0.79
+2022-05-12,Thursday,Sunny,Paneer Butter Masala,168,100.8,0.6,34.27
+2022-05-13,Friday,Rainy,Aloo Gobhi,161,64.4,0.4,1.63
+2022-05-14,Saturday,Cloudy,Tinda Curry,138,55.2,0.4,22.91
+2022-05-15,Sunday,Cloudy,Lauki Kofta,115,36.8,0.31999999999999995,9.66
+2022-05-16,Monday,Rainy,Chicken Biryani,175,70.0,0.4,0.64
+2022-05-17,Tuesday,Sunny,Paneer Butter Masala,192,76.8,0.39999999999999997,0.66
+2022-05-18,Wednesday,Sunny,Tinda Curry,179,85.92,0.48,44.17
+2022-05-19,Thursday,Rainy,Rajma Chawal,200,120.0,0.6,41.39
+2022-05-20,Friday,Sunny,Lauki Kofta,170,102.0,0.6,62.34
+2022-05-21,Saturday,Cloudy,Lauki Kofta,123,59.04,0.48,30.53
+2022-05-22,Sunday,Rainy,Tinda Curry,115,46.0,0.4,19.75
+2022-05-23,Monday,Rainy,Paneer Butter Masala,192,76.8,0.39999999999999997,0.61
+2022-05-24,Tuesday,Rainy,Tinda Curry,180,72.0,0.4,30.31
+2022-05-25,Wednesday,Sunny,Aloo Gobhi,178,85.44,0.48,16.22
+2022-05-26,Thursday,Cloudy,Tinda Curry,180,108.0,0.6,65.83
+2022-05-27,Friday,Rainy,Rajma Chawal,195,62.4,0.32,0.89
+2022-05-28,Saturday,Sunny,Chicken Biryani,150,60.0,0.4,0.43
+2022-05-29,Sunday,Sunny,Tinda Curry,116,46.4,0.39999999999999997,19.84
+2022-05-30,Monday,Sunny,Mix Veg,169,67.6,0.39999999999999997,2.16
+2022-05-31,Tuesday,Sunny,Mix Veg,178,56.96,0.32,2.36
+2022-06-01,Wednesday,Cloudy,Paneer Butter Masala,193,115.8,0.6,39.49
+2022-06-02,Thursday,Sunny,Paneer Butter Masala,170,54.4,0.32,0.31
+2022-06-03,Friday,Sunny,Lauki Kofta,195,93.6,0.48,47.42
+2022-06-04,Saturday,Sunny,Lauki Kofta,121,58.08,0.48,30.07
+2022-06-05,Sunday,Cloudy,Tinda Curry,142,45.44,0.32,12.91
+2022-06-06,Monday,Rainy,Mix Veg,168,53.76,0.32,2.05
+2022-06-07,Tuesday,Sunny,Lauki Kofta,163,65.2,0.4,26.87
+2022-06-08,Wednesday,Sunny,Lauki Kofta,167,66.8,0.39999999999999997,27.21
+2022-06-09,Thursday,Sunny,Chicken Biryani,200,80.0,0.4,0.51
+2022-06-10,Friday,Cloudy,Chicken Biryani,186,74.4,0.4,0.22
+2022-06-11,Saturday,Cloudy,Lauki Kofta,110,44.0,0.4,17.88
+2022-06-12,Sunday,Cloudy,Tinda Curry,105,50.4,0.48,26.38
+2022-06-13,Monday,Sunny,Chicken Biryani,177,70.8,0.39999999999999997,0.52
+2022-06-14,Tuesday,Cloudy,Paneer Butter Masala,185,74.0,0.4,0.46
+2022-06-15,Wednesday,Sunny,Chicken Biryani,171,102.6,0.6,35.11
+2022-06-16,Thursday,Sunny,Aloo Gobhi,176,105.6,0.6,36.86
+2022-06-17,Friday,Cloudy,Mix Veg,197,94.56,0.48000000000000004,17.81
+2022-06-18,Saturday,Rainy,Mix Veg,100,32.0,0.32,0.86
+2022-06-19,Sunday,Rainy,Mix Veg,138,44.16,0.31999999999999995,1.53
+2022-06-20,Monday,Cloudy,Aloo Gobhi,176,70.4,0.4,1.78
+2022-06-21,Tuesday,Rainy,Tinda Curry,172,103.2,0.6,63.28
+2022-06-22,Wednesday,Sunny,Mix Veg,160,64.0,0.4,1.49
+2022-06-23,Thursday,Rainy,Lauki Kofta,171,68.4,0.4,27.8
+2022-06-24,Friday,Rainy,Chicken Biryani,180,86.4,0.48000000000000004,14.66
+2022-06-25,Saturday,Cloudy,Aloo Gobhi,147,70.56,0.48000000000000004,13.2
+2022-06-26,Sunday,Sunny,Aloo Gobhi,133,53.2,0.4,1.58
+2022-06-27,Monday,Rainy,Rajma Chawal,166,66.4,0.4,0.55
+2022-06-28,Tuesday,Sunny,Tinda Curry,199,95.52,0.48,49.07
+2022-06-29,Wednesday,Sunny,Mix Veg,160,76.8,0.48,14.2
+2022-06-30,Thursday,Sunny,Mix Veg,189,75.6,0.39999999999999997,1.57
+2022-07-01,Friday,Rainy,Aloo Gobhi,180,72.0,0.4,1.75
+2022-07-02,Saturday,Rainy,Paneer Butter Masala,147,47.04,0.32,0.9
+2022-07-03,Sunday,Rainy,Rajma Chawal,140,44.8,0.32,0.34
+2022-07-04,Monday,Cloudy,Lauki Kofta,162,64.8,0.39999999999999997,27.01
+2022-07-05,Tuesday,Sunny,Tinda Curry,188,90.24,0.48,46.81
+2022-07-06,Wednesday,Rainy,Paneer Butter Masala,172,103.2,0.6,35.53
+2022-07-07,Thursday,Rainy,Mix Veg,197,78.8,0.39999999999999997,2.42
+2022-07-08,Friday,Cloudy,Paneer Butter Masala,160,64.0,0.4,0.56
+2022-07-09,Saturday,Cloudy,Mix Veg,104,62.4,0.6,22.39
+2022-07-10,Sunday,Cloudy,Aloo Gobhi,140,67.2,0.48000000000000004,12.39
+2022-07-11,Monday,Cloudy,Aloo Gobhi,183,87.84,0.48000000000000004,16.3
+2022-07-12,Tuesday,Cloudy,Lauki Kofta,169,67.6,0.39999999999999997,27.72
+2022-07-13,Wednesday,Cloudy,Paneer Butter Masala,165,66.0,0.4,0.74
+2022-07-14,Thursday,Sunny,Aloo Gobhi,189,75.6,0.39999999999999997,1.42
+2022-07-15,Friday,Rainy,Rajma Chawal,166,79.68,0.48000000000000004,14.6
+2022-07-16,Saturday,Rainy,Chicken Biryani,121,72.6,0.6,25.13
+2022-07-17,Sunday,Sunny,Aloo Gobhi,142,85.2,0.6,29.84
+2022-07-18,Monday,Rainy,Rajma Chawal,197,63.04,0.32,0.76
+2022-07-19,Tuesday,Sunny,Mix Veg,172,103.2,0.6,36.46
+2022-07-20,Wednesday,Rainy,Mix Veg,186,74.4,0.4,2.39
+2022-07-21,Thursday,Cloudy,Mix Veg,198,95.04,0.48000000000000004,18.13
+2022-07-22,Friday,Rainy,Paneer Butter Masala,194,116.4,0.6,39.72
+2022-07-23,Saturday,Cloudy,Chicken Biryani,123,39.36,0.32,0.23
+2022-07-24,Sunday,Cloudy,Mix Veg,118,56.64,0.48,11.35
+2022-07-25,Monday,Rainy,Mix Veg,183,87.84,0.48000000000000004,16.98
+2022-07-26,Tuesday,Cloudy,Tinda Curry,196,117.6,0.6,72.37
+2022-07-27,Wednesday,Sunny,Aloo Gobhi,189,90.72,0.48,16.64
+2022-07-28,Thursday,Cloudy,Rajma Chawal,166,99.6,0.6,34.11
+2022-07-29,Friday,Rainy,Lauki Kofta,196,62.72,0.32,16.26
+2022-07-30,Saturday,Cloudy,Paneer Butter Masala,147,47.04,0.32,0.42
+2022-07-31,Sunday,Rainy,Chicken Biryani,113,54.24,0.48000000000000004,9.13
+2022-08-01,Monday,Sunny,Mix Veg,198,118.8,0.6,42.0
+2022-08-02,Tuesday,Sunny,Rajma Chawal,196,94.08,0.48,17.03
+2022-08-03,Wednesday,Sunny,Rajma Chawal,195,117.0,0.6,40.32
+2022-08-04,Thursday,Rainy,Mix Veg,165,66.0,0.4,2.03
+2022-08-05,Friday,Cloudy,Aloo Gobhi,185,74.0,0.4,1.26
+2022-08-06,Saturday,Rainy,Aloo Gobhi,125,60.0,0.48,11.09
+2022-08-07,Sunday,Cloudy,Tinda Curry,113,45.2,0.4,19.63
+2022-08-08,Monday,Cloudy,Paneer Butter Masala,187,89.76,0.48000000000000004,15.96
+2022-08-09,Tuesday,Cloudy,Rajma Chawal,194,116.4,0.6,39.68
+2022-08-10,Wednesday,Sunny,Rajma Chawal,195,93.6,0.48,16.0
+2022-08-11,Thursday,Rainy,Aloo Gobhi,183,73.2,0.4,1.57
+2022-08-12,Friday,Cloudy,Mix Veg,186,59.52,0.32,2.11
+2022-08-13,Saturday,Cloudy,Tinda Curry,115,55.2,0.48000000000000004,28.37
+2022-08-14,Sunday,Rainy,Rajma Chawal,125,50.0,0.4,0.33
+2022-08-15,Monday,Sunny,Aloo Gobhi,181,108.6,0.6,38.03
+2022-08-16,Tuesday,Sunny,Aloo Gobhi,178,56.96,0.32,1.66
+2022-08-17,Wednesday,Sunny,Aloo Gobhi,189,60.48,0.32,1.57
+2022-08-18,Thursday,Sunny,Aloo Gobhi,160,96.0,0.6,33.86
+2022-08-19,Friday,Sunny,Mix Veg,177,70.8,0.39999999999999997,1.59
+2022-08-20,Saturday,Sunny,Tinda Curry,118,37.76,0.32,10.11
+2022-08-21,Sunday,Cloudy,Mix Veg,136,43.52,0.32,1.26
+2022-08-22,Monday,Rainy,Lauki Kofta,184,88.32,0.48,45.4
+2022-08-23,Tuesday,Sunny,Rajma Chawal,167,100.2,0.6,34.04
+2022-08-24,Wednesday,Rainy,Paneer Butter Masala,180,72.0,0.4,0.76
+2022-08-25,Thursday,Cloudy,Aloo Gobhi,174,104.4,0.6,36.53
+2022-08-26,Friday,Rainy,Aloo Gobhi,189,60.48,0.32,1.97
+2022-08-27,Saturday,Rainy,Rajma Chawal,146,58.4,0.39999999999999997,1.13
+2022-08-28,Sunday,Cloudy,Tinda Curry,112,53.76,0.48,27.7
+2022-08-29,Monday,Sunny,Chicken Biryani,180,72.0,0.4,0.94
+2022-08-30,Tuesday,Cloudy,Paneer Butter Masala,168,67.2,0.4,0.16
+2022-08-31,Wednesday,Cloudy,Tinda Curry,167,80.16,0.48,41.41
+2022-09-01,Thursday,Sunny,Mix Veg,193,115.8,0.6,40.74
+2022-09-02,Friday,Rainy,Mix Veg,166,66.4,0.4,1.48
+2022-09-03,Saturday,Sunny,Tinda Curry,127,50.8,0.39999999999999997,21.01
+2022-09-04,Sunday,Sunny,Rajma Chawal,130,41.6,0.32,1.04
+2022-09-05,Monday,Cloudy,Chicken Biryani,170,68.0,0.4,0.78
+2022-09-06,Tuesday,Cloudy,Paneer Butter Masala,161,51.52,0.32,0.47
+2022-09-07,Wednesday,Sunny,Paneer Butter Masala,160,51.2,0.32,1.04
+2022-09-08,Thursday,Sunny,Mix Veg,170,68.0,0.4,2.15
+2022-09-09,Friday,Rainy,Rajma Chawal,168,53.76,0.32,0.97
+2022-09-10,Saturday,Rainy,Chicken Biryani,133,53.2,0.4,0.96
+2022-09-11,Sunday,Sunny,Mix Veg,102,40.8,0.39999999999999997,1.72
+2022-09-12,Monday,Rainy,Aloo Gobhi,193,61.76,0.32,1.4
+2022-09-13,Tuesday,Sunny,Mix Veg,175,70.0,0.4,1.99
+2022-09-14,Wednesday,Cloudy,Mix Veg,174,69.6,0.39999999999999997,2.0
+2022-09-15,Thursday,Sunny,Chicken Biryani,177,84.96,0.48,14.46
+2022-09-16,Friday,Sunny,Rajma Chawal,163,65.2,0.4,0.41
+2022-09-17,Saturday,Sunny,Tinda Curry,137,43.84,0.32,11.76
+2022-09-18,Sunday,Cloudy,Tinda Curry,101,40.4,0.39999999999999997,17.04
+2022-09-19,Monday,Rainy,Paneer Butter Masala,180,86.4,0.48000000000000004,14.63
+2022-09-20,Tuesday,Sunny,Chicken Biryani,173,55.36,0.32,0.92
+2022-09-21,Wednesday,Sunny,Tinda Curry,185,59.2,0.32,16.5
+2022-09-22,Thursday,Rainy,Mix Veg,200,120.0,0.6,41.61
+2022-09-23,Friday,Rainy,Mix Veg,177,56.64,0.32,1.87
+2022-09-24,Saturday,Sunny,Tinda Curry,131,41.92,0.32,12.06
+2022-09-25,Sunday,Rainy,Paneer Butter Masala,149,71.52,0.48,12.99
+2022-09-26,Monday,Cloudy,Tinda Curry,160,64.0,0.4,26.77
+2022-09-27,Tuesday,Cloudy,Chicken Biryani,192,76.8,0.39999999999999997,0.96
+2022-09-28,Wednesday,Sunny,Rajma Chawal,183,87.84,0.48000000000000004,15.96
+2022-09-29,Thursday,Rainy,Paneer Butter Masala,180,72.0,0.4,0.48
+2022-09-30,Friday,Cloudy,Aloo Gobhi,196,78.4,0.4,2.18
+2022-10-01,Saturday,Rainy,Chicken Biryani,111,44.4,0.39999999999999997,0.86
+2022-10-02,Sunday,Rainy,Aloo Gobhi,135,54.0,0.4,0.85
+2022-10-03,Monday,Sunny,Rajma Chawal,173,83.04,0.48000000000000004,14.34
+2022-10-04,Tuesday,Rainy,Aloo Gobhi,181,86.88,0.48,15.61
+2022-10-05,Wednesday,Rainy,Mix Veg,174,69.6,0.39999999999999997,1.42
+2022-10-06,Thursday,Cloudy,Aloo Gobhi,171,68.4,0.4,1.61
+2022-10-07,Friday,Cloudy,Aloo Gobhi,195,93.6,0.48,17.0
+2022-10-08,Saturday,Sunny,Lauki Kofta,149,71.52,0.48,36.61
+2022-10-09,Sunday,Sunny,Tinda Curry,127,76.2,0.6,46.8
+2022-10-10,Monday,Cloudy,Paneer Butter Masala,180,108.0,0.6,37.05
+2022-10-11,Tuesday,Sunny,Rajma Chawal,181,108.6,0.6,37.14
+2022-10-12,Wednesday,Cloudy,Paneer Butter Masala,164,98.4,0.6000000000000001,33.74
+2022-10-13,Thursday,Rainy,Rajma Chawal,173,69.2,0.4,0.79
+2022-10-14,Friday,Cloudy,Mix Veg,165,66.0,0.4,1.64
+2022-10-15,Saturday,Sunny,Mix Veg,118,56.64,0.48,10.71
+2022-10-16,Sunday,Rainy,Mix Veg,131,52.4,0.39999999999999997,1.64
+2022-10-17,Monday,Sunny,Rajma Chawal,175,84.0,0.48,14.71
+2022-10-18,Tuesday,Sunny,Tinda Curry,180,72.0,0.4,30.11
+2022-10-19,Wednesday,Sunny,Chicken Biryani,182,72.8,0.39999999999999997,0.24
+2022-10-20,Thursday,Rainy,Lauki Kofta,167,53.44,0.32,14.54
+2022-10-21,Friday,Cloudy,Paneer Butter Masala,167,66.8,0.39999999999999997,0.76
+2022-10-22,Saturday,Rainy,Chicken Biryani,112,67.2,0.6,23.31
+2022-10-23,Sunday,Rainy,Aloo Gobhi,108,43.2,0.4,1.01
+2022-10-24,Monday,Rainy,Aloo Gobhi,174,69.6,0.39999999999999997,1.53
+2022-10-25,Tuesday,Sunny,Lauki Kofta,165,52.8,0.32,13.73
+2022-10-26,Wednesday,Sunny,Lauki Kofta,190,60.8,0.32,16.17
+2022-10-27,Thursday,Rainy,Tinda Curry,181,72.4,0.4,30.74
+2022-10-28,Friday,Sunny,Chicken Biryani,195,62.4,0.32,0.71
+2022-10-29,Saturday,Sunny,Aloo Gobhi,126,50.4,0.39999999999999997,0.97
+2022-10-30,Sunday,Cloudy,Aloo Gobhi,105,42.0,0.4,1.36
+2022-10-31,Monday,Sunny,Mix Veg,183,73.2,0.4,1.47
+2022-11-01,Tuesday,Sunny,Chicken Biryani,191,114.6,0.6,39.22
+2022-11-02,Wednesday,Cloudy,Paneer Butter Masala,164,65.6,0.39999999999999997,1.05
+2022-11-03,Thursday,Sunny,Tinda Curry,170,81.6,0.48,41.85
+2022-11-04,Friday,Sunny,Aloo Gobhi,195,117.0,0.6,40.83
+2022-11-05,Saturday,Cloudy,Mix Veg,142,85.2,0.6,29.62
+2022-11-06,Sunday,Sunny,Rajma Chawal,111,66.6,0.6,23.05
+2022-11-07,Monday,Cloudy,Rajma Chawal,165,79.2,0.48000000000000004,14.34
+2022-11-08,Tuesday,Rainy,Lauki Kofta,183,109.8,0.6,66.78
+2022-11-09,Wednesday,Cloudy,Rajma Chawal,167,66.8,0.39999999999999997,1.32
+2022-11-10,Thursday,Cloudy,Aloo Gobhi,166,66.4,0.4,1.44
+2022-11-11,Friday,Cloudy,Chicken Biryani,181,72.4,0.4,0.65
+2022-11-12,Saturday,Rainy,Rajma Chawal,140,67.2,0.48000000000000004,11.64
+2022-11-13,Sunday,Rainy,Chicken Biryani,143,68.64,0.48,11.58
+2022-11-14,Monday,Sunny,Paneer Butter Masala,183,58.56,0.32,1.04
+2022-11-15,Tuesday,Rainy,Chicken Biryani,163,52.16,0.32,0.23
+2022-11-16,Wednesday,Sunny,Paneer Butter Masala,191,76.4,0.4,0.71
+2022-11-17,Thursday,Rainy,Paneer Butter Masala,161,64.4,0.4,0.57
+2022-11-18,Friday,Rainy,Rajma Chawal,196,62.72,0.32,1.21
+2022-11-19,Saturday,Rainy,Paneer Butter Masala,103,32.96,0.32,1.01
+2022-11-20,Sunday,Sunny,Rajma Chawal,150,72.0,0.48,12.91
+2022-11-21,Monday,Cloudy,Chicken Biryani,179,57.28,0.32,0.7
+2022-11-22,Tuesday,Cloudy,Mix Veg,199,119.4,0.6,41.76
+2022-11-23,Wednesday,Sunny,Rajma Chawal,161,51.52,0.32,0.56
+2022-11-24,Thursday,Rainy,Mix Veg,169,54.08,0.32,1.82
+2022-11-25,Friday,Rainy,Paneer Butter Masala,174,83.52,0.48,14.19
+2022-11-26,Saturday,Rainy,Aloo Gobhi,143,45.76,0.32,0.92
+2022-11-27,Sunday,Cloudy,Rajma Chawal,122,48.8,0.39999999999999997,1.01
+2022-11-28,Monday,Sunny,Aloo Gobhi,168,80.64,0.48,15.31
+2022-11-29,Tuesday,Cloudy,Aloo Gobhi,176,84.48,0.48000000000000004,15.68
+2022-11-30,Wednesday,Rainy,Rajma Chawal,195,93.6,0.48,16.33
+2022-12-01,Thursday,Cloudy,Mix Veg,160,96.0,0.6,33.91
+2022-12-02,Friday,Sunny,Lauki Kofta,180,72.0,0.4,29.67
+2022-12-03,Saturday,Sunny,Paneer Butter Masala,108,43.2,0.4,0.65
+2022-12-04,Sunday,Sunny,Lauki Kofta,141,45.12,0.32,12.26
+2022-12-05,Monday,Sunny,Lauki Kofta,162,64.8,0.39999999999999997,26.81
+2022-12-06,Tuesday,Rainy,Tinda Curry,178,106.8,0.6,65.7
+2022-12-07,Wednesday,Cloudy,Rajma Chawal,162,51.84,0.32,0.57
+2022-12-08,Thursday,Cloudy,Tinda Curry,192,115.2,0.6,70.52
+2022-12-09,Friday,Sunny,Aloo Gobhi,184,88.32,0.48,16.2
+2022-12-10,Saturday,Cloudy,Chicken Biryani,116,69.6,0.6,24.04
+2022-12-11,Sunday,Sunny,Lauki Kofta,109,43.6,0.4,18.41
+2022-12-12,Monday,Rainy,Tinda Curry,175,105.0,0.6,64.29
+2022-12-13,Tuesday,Cloudy,Mix Veg,164,65.6,0.39999999999999997,2.28
+2022-12-14,Wednesday,Cloudy,Paneer Butter Masala,180,57.6,0.32,0.85
+2022-12-15,Thursday,Rainy,Tinda Curry,169,54.08,0.32,14.37
+2022-12-16,Friday,Cloudy,Rajma Chawal,194,77.6,0.39999999999999997,0.54
+2022-12-17,Saturday,Cloudy,Mix Veg,127,76.2,0.6,26.72
+2022-12-18,Sunday,Cloudy,Aloo Gobhi,135,43.2,0.32,1.37
+2022-12-19,Monday,Cloudy,Mix Veg,170,68.0,0.4,2.29
+2022-12-20,Tuesday,Sunny,Aloo Gobhi,193,115.8,0.6,40.64
+2022-12-21,Wednesday,Rainy,Tinda Curry,196,94.08,0.48,48.68
+2022-12-22,Thursday,Cloudy,Paneer Butter Masala,195,62.4,0.32,0.44
+2022-12-23,Friday,Sunny,Paneer Butter Masala,171,102.6,0.6,35.01
+2022-12-24,Saturday,Rainy,Mix Veg,117,70.2,0.6,25.08
+2022-12-25,Sunday,Rainy,Chicken Biryani,143,57.2,0.4,0.87
+2022-12-26,Monday,Cloudy,Chicken Biryani,177,70.8,0.39999999999999997,0.47
+2022-12-27,Tuesday,Cloudy,Paneer Butter Masala,179,57.28,0.32,0.51
+2022-12-28,Wednesday,Cloudy,Mix Veg,192,115.2,0.6,40.73
+2022-12-29,Thursday,Cloudy,Rajma Chawal,166,99.6,0.6,34.32
+2022-12-30,Friday,Sunny,Chicken Biryani,177,70.8,0.39999999999999997,0.68
+2022-12-31,Saturday,Sunny,Chicken Biryani,108,51.84,0.48000000000000004,8.79
+2023-01-01,Sunday,Cloudy,Aloo Gobhi,119,47.6,0.4,0.89
+2023-01-02,Monday,Cloudy,Rajma Chawal,161,64.4,0.4,0.67
+2023-01-03,Tuesday,Sunny,Paneer Butter Masala,192,76.8,0.39999999999999997,1.02
+2023-01-04,Wednesday,Rainy,Rajma Chawal,196,62.72,0.32,1.18
+2023-01-05,Thursday,Sunny,Mix Veg,196,78.4,0.4,2.52
+2023-01-06,Friday,Cloudy,Rajma Chawal,160,96.0,0.6,33.0
+2023-01-07,Saturday,Sunny,Chicken Biryani,121,38.72,0.32,0.41
+2023-01-08,Sunday,Sunny,Aloo Gobhi,119,71.4,0.6000000000000001,25.22
+2023-01-09,Monday,Rainy,Chicken Biryani,194,93.12,0.48000000000000004,15.7
+2023-01-10,Tuesday,Sunny,Chicken Biryani,164,65.6,0.39999999999999997,0.56
+2023-01-11,Wednesday,Cloudy,Rajma Chawal,187,74.8,0.39999999999999997,0.99
+2023-01-12,Thursday,Rainy,Chicken Biryani,164,52.48,0.32,0.71
+2023-01-13,Friday,Sunny,Chicken Biryani,191,76.4,0.4,0.7
+2023-01-14,Saturday,Rainy,Chicken Biryani,132,63.36,0.48,11.54
+2023-01-15,Sunday,Cloudy,Rajma Chawal,102,40.8,0.39999999999999997,0.58
+2023-01-16,Monday,Rainy,Chicken Biryani,172,68.8,0.39999999999999997,0.46
+2023-01-17,Tuesday,Cloudy,Rajma Chawal,180,72.0,0.4,1.17
+2023-01-18,Wednesday,Cloudy,Aloo Gobhi,163,78.24,0.48,14.59
+2023-01-19,Thursday,Cloudy,Tinda Curry,172,82.56,0.48000000000000004,42.6
+2023-01-20,Friday,Sunny,Rajma Chawal,167,100.2,0.6,34.19
+2023-01-21,Saturday,Sunny,Paneer Butter Masala,115,69.0,0.6,23.39
+2023-01-22,Sunday,Cloudy,Aloo Gobhi,108,43.2,0.4,0.92
+2023-01-23,Monday,Sunny,Chicken Biryani,182,72.8,0.39999999999999997,0.31
+2023-01-24,Tuesday,Cloudy,Paneer Butter Masala,173,69.2,0.4,0.19
+2023-01-25,Wednesday,Sunny,Lauki Kofta,190,60.8,0.32,15.84
+2023-01-26,Thursday,Cloudy,Lauki Kofta,165,52.8,0.32,14.53
+2023-01-27,Friday,Sunny,Chicken Biryani,179,85.92,0.48,15.06
+2023-01-28,Saturday,Rainy,Chicken Biryani,135,54.0,0.4,0.19
+2023-01-29,Sunday,Cloudy,Mix Veg,137,82.2,0.6,28.87
+2023-01-30,Monday,Sunny,Paneer Butter Masala,186,74.4,0.4,0.76
+2023-01-31,Tuesday,Cloudy,Paneer Butter Masala,196,62.72,0.32,0.78
+2023-02-01,Wednesday,Rainy,Rajma Chawal,200,120.0,0.6,41.36
+2023-02-02,Thursday,Cloudy,Chicken Biryani,177,56.64,0.32,0.31
+2023-02-03,Friday,Rainy,Tinda Curry,161,51.52,0.32,14.26
+2023-02-04,Saturday,Sunny,Chicken Biryani,124,74.4,0.6000000000000001,25.4
+2023-02-05,Sunday,Rainy,Lauki Kofta,124,39.68,0.32,10.59
+2023-02-06,Monday,Cloudy,Paneer Butter Masala,198,79.2,0.4,0.81
+2023-02-07,Tuesday,Rainy,Paneer Butter Masala,193,61.76,0.32,0.48
+2023-02-08,Wednesday,Rainy,Rajma Chawal,186,74.4,0.4,1.11
+2023-02-09,Thursday,Cloudy,Lauki Kofta,199,95.52,0.48,48.93
+2023-02-10,Friday,Rainy,Lauki Kofta,198,63.36,0.32,16.61
+2023-02-11,Saturday,Sunny,Lauki Kofta,127,50.8,0.39999999999999997,20.65
+2023-02-12,Sunday,Sunny,Chicken Biryani,148,47.36,0.32,0.91
+2023-02-13,Monday,Cloudy,Paneer Butter Masala,173,103.8,0.6,35.42
+2023-02-14,Tuesday,Cloudy,Chicken Biryani,183,73.2,0.4,0.44
+2023-02-15,Wednesday,Rainy,Lauki Kofta,161,64.4,0.4,26.73
+2023-02-16,Thursday,Sunny,Tinda Curry,185,88.8,0.48,46.28
+2023-02-17,Friday,Rainy,Mix Veg,186,59.52,0.32,2.02
+2023-02-18,Saturday,Sunny,Paneer Butter Masala,109,52.32,0.48,9.47
+2023-02-19,Sunday,Cloudy,Rajma Chawal,128,51.2,0.4,0.85
+2023-02-20,Monday,Sunny,Tinda Curry,175,105.0,0.6,64.73
+2023-02-21,Tuesday,Rainy,Lauki Kofta,177,56.64,0.32,14.88
+2023-02-22,Wednesday,Sunny,Aloo Gobhi,169,101.4,0.6000000000000001,35.25
+2023-02-23,Thursday,Sunny,Chicken Biryani,191,61.12,0.32,0.75
+2023-02-24,Friday,Rainy,Aloo Gobhi,189,113.4,0.6,39.78
+2023-02-25,Saturday,Sunny,Rajma Chawal,144,57.6,0.4,1.16
+2023-02-26,Sunday,Cloudy,Mix Veg,112,53.76,0.48,10.14
+2023-02-27,Monday,Sunny,Paneer Butter Masala,173,83.04,0.48000000000000004,14.27
+2023-02-28,Tuesday,Sunny,Lauki Kofta,175,84.0,0.48,43.12
+2023-03-01,Wednesday,Cloudy,Mix Veg,165,52.8,0.32,1.8
+2023-03-02,Thursday,Cloudy,Tinda Curry,185,74.0,0.4,31.33
+2023-03-03,Friday,Cloudy,Tinda Curry,188,90.24,0.48,46.95
+2023-03-04,Saturday,Rainy,Aloo Gobhi,149,59.6,0.4,1.03
+2023-03-05,Sunday,Sunny,Mix Veg,119,71.4,0.6000000000000001,24.95
+2023-03-06,Monday,Cloudy,Aloo Gobhi,168,100.8,0.6,34.87
+2023-03-07,Tuesday,Sunny,Lauki Kofta,198,79.2,0.4,32.68
+2023-03-08,Wednesday,Rainy,Lauki Kofta,178,71.2,0.4,29.04
+2023-03-09,Thursday,Cloudy,Paneer Butter Masala,197,63.04,0.32,0.27
+2023-03-10,Friday,Cloudy,Chicken Biryani,185,111.0,0.6,38.06
+2023-03-11,Saturday,Sunny,Tinda Curry,114,45.6,0.4,19.32
+2023-03-12,Sunday,Cloudy,Lauki Kofta,150,48.0,0.32,13.28
+2023-03-13,Monday,Rainy,Mix Veg,174,55.68,0.32,2.39
+2023-03-14,Tuesday,Cloudy,Chicken Biryani,200,80.0,0.4,0.26
+2023-03-15,Wednesday,Rainy,Aloo Gobhi,173,55.36,0.32,1.47
+2023-03-16,Thursday,Sunny,Mix Veg,164,65.6,0.39999999999999997,2.14
+2023-03-17,Friday,Sunny,Rajma Chawal,199,79.6,0.39999999999999997,0.66
+2023-03-18,Saturday,Cloudy,Mix Veg,118,47.2,0.4,1.22
+2023-03-19,Sunday,Rainy,Paneer Butter Masala,110,44.0,0.4,1.08
+2023-03-20,Monday,Rainy,Chicken Biryani,165,99.0,0.6,33.74
+2023-03-21,Tuesday,Sunny,Mix Veg,198,79.2,0.4,2.34
+2023-03-22,Wednesday,Rainy,Rajma Chawal,195,62.4,0.32,1.01
+2023-03-23,Thursday,Sunny,Mix Veg,185,88.8,0.48,17.14
+2023-03-24,Friday,Sunny,Rajma Chawal,183,58.56,0.32,1.35
+2023-03-25,Saturday,Cloudy,Aloo Gobhi,127,50.8,0.39999999999999997,1.2
+2023-03-26,Sunday,Rainy,Rajma Chawal,108,43.2,0.4,0.99
+2023-03-27,Monday,Cloudy,Tinda Curry,163,78.24,0.48,40.08
+2023-03-28,Tuesday,Sunny,Tinda Curry,194,93.12,0.48000000000000004,48.27
+2023-03-29,Wednesday,Sunny,Tinda Curry,185,111.0,0.6,67.78
+2023-03-30,Thursday,Sunny,Chicken Biryani,189,60.48,0.32,0.84
+2023-03-31,Friday,Cloudy,Chicken Biryani,169,54.08,0.32,0.1
+2023-04-01,Saturday,Cloudy,Aloo Gobhi,106,50.88,0.48000000000000004,9.73
+2023-04-02,Sunday,Rainy,Tinda Curry,137,54.8,0.39999999999999997,23.55
+2023-04-03,Monday,Cloudy,Aloo Gobhi,171,82.08,0.48,14.86
+2023-04-04,Tuesday,Sunny,Paneer Butter Masala,164,52.48,0.32,0.55
+2023-04-05,Wednesday,Sunny,Aloo Gobhi,180,57.6,0.32,1.08
+2023-04-06,Thursday,Rainy,Aloo Gobhi,165,66.0,0.4,1.5
+2023-04-07,Friday,Sunny,Tinda Curry,174,69.6,0.39999999999999997,28.84
+2023-04-08,Saturday,Rainy,Tinda Curry,122,39.04,0.32,11.25
+2023-04-09,Sunday,Rainy,Chicken Biryani,142,56.8,0.39999999999999997,0.39
+2023-04-10,Monday,Sunny,Rajma Chawal,185,59.2,0.32,0.77
+2023-04-11,Tuesday,Cloudy,Chicken Biryani,185,59.2,0.32,0.58
+2023-04-12,Wednesday,Cloudy,Paneer Butter Masala,168,67.2,0.4,0.87
+2023-04-13,Thursday,Rainy,Tinda Curry,186,74.4,0.4,31.03
+2023-04-14,Friday,Cloudy,Lauki Kofta,198,79.2,0.4,32.99
+2023-04-15,Saturday,Cloudy,Lauki Kofta,124,59.52,0.48000000000000004,30.77
+2023-04-16,Sunday,Cloudy,Tinda Curry,119,71.4,0.6000000000000001,44.06
+2023-04-17,Monday,Rainy,Mix Veg,166,79.68,0.48000000000000004,14.84
+2023-04-18,Tuesday,Sunny,Tinda Curry,162,64.8,0.39999999999999997,27.34
+2023-04-19,Wednesday,Cloudy,Chicken Biryani,168,67.2,0.4,0.99
+2023-04-20,Thursday,Sunny,Tinda Curry,166,99.6,0.6,60.91
+2023-04-21,Friday,Sunny,Rajma Chawal,195,117.0,0.6,39.58
+2023-04-22,Saturday,Sunny,Mix Veg,135,54.0,0.4,1.98
+2023-04-23,Sunday,Cloudy,Aloo Gobhi,101,32.32,0.32,0.77
+2023-04-24,Monday,Rainy,Chicken Biryani,192,92.16,0.48,16.1
+2023-04-25,Tuesday,Sunny,Aloo Gobhi,167,100.2,0.6,34.91
+2023-04-26,Wednesday,Rainy,Paneer Butter Masala,182,109.2,0.6,37.51
+2023-04-27,Thursday,Cloudy,Paneer Butter Masala,182,72.8,0.39999999999999997,0.78
+2023-04-28,Friday,Cloudy,Chicken Biryani,179,57.28,0.32,0.32
+2023-04-29,Saturday,Sunny,Rajma Chawal,117,56.16,0.48,10.34
+2023-04-30,Sunday,Rainy,Paneer Butter Masala,147,47.04,0.32,0.88
+2023-05-01,Monday,Cloudy,Rajma Chawal,191,114.6,0.6,39.34
+2023-05-02,Tuesday,Rainy,Paneer Butter Masala,190,76.0,0.4,0.61
+2023-05-03,Wednesday,Sunny,Aloo Gobhi,161,64.4,0.4,1.09
+2023-05-04,Thursday,Sunny,Chicken Biryani,192,115.2,0.6,39.02
+2023-05-05,Friday,Cloudy,Aloo Gobhi,200,120.0,0.6,41.83
+2023-05-06,Saturday,Cloudy,Paneer Butter Masala,145,69.6,0.48,12.46
+2023-05-07,Sunday,Sunny,Tinda Curry,104,49.92,0.48000000000000004,25.81
+2023-05-08,Monday,Rainy,Paneer Butter Masala,171,102.6,0.6,35.07
+2023-05-09,Tuesday,Cloudy,Rajma Chawal,173,69.2,0.4,1.08
+2023-05-10,Wednesday,Sunny,Tinda Curry,174,104.4,0.6,64.24
+2023-05-11,Thursday,Sunny,Tinda Curry,199,79.6,0.39999999999999997,32.94
+2023-05-12,Friday,Sunny,Tinda Curry,194,77.6,0.39999999999999997,32.07
+2023-05-13,Saturday,Sunny,Lauki Kofta,105,42.0,0.4,17.52
+2023-05-14,Sunday,Sunny,Rajma Chawal,122,48.8,0.39999999999999997,0.27
+2023-05-15,Monday,Sunny,Paneer Butter Masala,195,62.4,0.32,1.13
+2023-05-16,Tuesday,Cloudy,Mix Veg,184,88.32,0.48,16.96
+2023-05-17,Wednesday,Cloudy,Tinda Curry,188,112.8,0.6,68.82
+2023-05-18,Thursday,Cloudy,Tinda Curry,183,109.8,0.6,67.31
+2023-05-19,Friday,Rainy,Aloo Gobhi,184,88.32,0.48,15.88
+2023-05-20,Saturday,Sunny,Lauki Kofta,130,52.0,0.4,21.38
+2023-05-21,Sunday,Sunny,Aloo Gobhi,150,60.0,0.4,1.35
+2023-05-22,Monday,Rainy,Rajma Chawal,200,120.0,0.6,41.18
+2023-05-23,Tuesday,Cloudy,Lauki Kofta,197,94.56,0.48000000000000004,48.43
+2023-05-24,Wednesday,Sunny,Aloo Gobhi,173,55.36,0.32,1.05
+2023-05-25,Thursday,Rainy,Tinda Curry,183,73.2,0.4,31.06
+2023-05-26,Friday,Sunny,Chicken Biryani,177,70.8,0.39999999999999997,0.89
+2023-05-27,Saturday,Sunny,Lauki Kofta,126,75.6,0.6,46.0
+2023-05-28,Sunday,Sunny,Rajma Chawal,132,52.8,0.39999999999999997,0.81
+2023-05-29,Monday,Sunny,Chicken Biryani,184,110.4,0.6,37.53
+2023-05-30,Tuesday,Rainy,Aloo Gobhi,176,105.6,0.6,36.62
+2023-05-31,Wednesday,Sunny,Tinda Curry,173,69.2,0.4,29.12
+2023-06-01,Thursday,Cloudy,Rajma Chawal,160,64.0,0.4,1.3
+2023-06-02,Friday,Sunny,Tinda Curry,181,86.88,0.48,44.38
+2023-06-03,Saturday,Cloudy,Paneer Butter Masala,102,40.8,0.39999999999999997,0.98
+2023-06-04,Sunday,Rainy,Tinda Curry,144,46.08,0.32,12.85
+2023-06-05,Monday,Rainy,Mix Veg,188,60.16,0.32,2.4
+2023-06-06,Tuesday,Sunny,Mix Veg,195,78.0,0.4,2.3
+2023-06-07,Wednesday,Rainy,Tinda Curry,180,72.0,0.4,30.33
+2023-06-08,Thursday,Cloudy,Paneer Butter Masala,163,78.24,0.48,13.17
+2023-06-09,Friday,Rainy,Lauki Kofta,194,93.12,0.48000000000000004,47.9
+2023-06-10,Saturday,Sunny,Chicken Biryani,131,52.4,0.39999999999999997,0.26
+2023-06-11,Sunday,Cloudy,Tinda Curry,112,67.2,0.6,41.0
+2023-06-12,Monday,Rainy,Chicken Biryani,195,78.0,0.4,0.64
+2023-06-13,Tuesday,Cloudy,Aloo Gobhi,161,77.28,0.48,14.63
+2023-06-14,Wednesday,Cloudy,Aloo Gobhi,190,91.2,0.48000000000000004,17.25
+2023-06-15,Thursday,Cloudy,Mix Veg,169,81.12,0.48000000000000004,15.26
+2023-06-16,Friday,Cloudy,Tinda Curry,185,74.0,0.4,31.51
+2023-06-17,Saturday,Rainy,Rajma Chawal,148,88.8,0.6,30.54
+2023-06-18,Sunday,Sunny,Rajma Chawal,117,70.2,0.6,24.27
+2023-06-19,Monday,Rainy,Tinda Curry,187,112.2,0.6,69.15
+2023-06-20,Tuesday,Rainy,Lauki Kofta,176,70.4,0.4,28.89
+2023-06-21,Wednesday,Cloudy,Chicken Biryani,162,51.84,0.32,0.92
+2023-06-22,Thursday,Cloudy,Chicken Biryani,197,78.8,0.39999999999999997,0.31
+2023-06-23,Friday,Cloudy,Aloo Gobhi,161,77.28,0.48,14.74
+2023-06-24,Saturday,Sunny,Lauki Kofta,125,50.0,0.4,21.2
+2023-06-25,Sunday,Sunny,Aloo Gobhi,146,58.4,0.39999999999999997,1.24
+2023-06-26,Monday,Rainy,Tinda Curry,186,74.4,0.4,31.33
+2023-06-27,Tuesday,Rainy,Tinda Curry,161,64.4,0.4,26.87
+2023-06-28,Wednesday,Cloudy,Paneer Butter Masala,186,74.4,0.4,0.53
+2023-06-29,Thursday,Cloudy,Lauki Kofta,196,78.4,0.4,31.88
+2023-06-30,Friday,Rainy,Aloo Gobhi,191,76.4,0.4,1.47
+2023-07-01,Saturday,Sunny,Lauki Kofta,115,36.8,0.31999999999999995,10.17
+2023-07-02,Sunday,Cloudy,Aloo Gobhi,121,48.4,0.39999999999999997,0.96
+2023-07-03,Monday,Sunny,Chicken Biryani,172,82.56,0.48000000000000004,13.92
+2023-07-04,Tuesday,Cloudy,Paneer Butter Masala,187,112.2,0.6,38.35
+2023-07-05,Wednesday,Sunny,Rajma Chawal,179,71.6,0.39999999999999997,1.29
+2023-07-06,Thursday,Cloudy,Paneer Butter Masala,160,76.8,0.48,13.6
+2023-07-07,Friday,Cloudy,Lauki Kofta,191,91.68,0.48000000000000004,46.65
+2023-07-08,Saturday,Rainy,Aloo Gobhi,143,45.76,0.32,1.63
+2023-07-09,Sunday,Rainy,Chicken Biryani,143,57.2,0.4,0.14
+2023-07-10,Monday,Rainy,Chicken Biryani,170,102.0,0.6,34.69
+2023-07-11,Tuesday,Rainy,Paneer Butter Masala,161,96.6,0.6,33.13
+2023-07-12,Wednesday,Cloudy,Aloo Gobhi,172,55.04,0.32,1.74
+2023-07-13,Thursday,Cloudy,Aloo Gobhi,162,51.84,0.32,1.28
+2023-07-14,Friday,Rainy,Paneer Butter Masala,197,78.8,0.39999999999999997,0.18
+2023-07-15,Saturday,Sunny,Lauki Kofta,135,64.8,0.48,33.41
+2023-07-16,Sunday,Rainy,Paneer Butter Masala,118,47.2,0.4,0.57
+2023-07-17,Monday,Sunny,Mix Veg,191,91.68,0.48000000000000004,17.72
+2023-07-18,Tuesday,Cloudy,Tinda Curry,193,61.76,0.32,17.17
+2023-07-19,Wednesday,Cloudy,Tinda Curry,196,117.6,0.6,71.87
+2023-07-20,Thursday,Cloudy,Mix Veg,183,58.56,0.32,2.43
+2023-07-21,Friday,Cloudy,Paneer Butter Masala,198,95.04,0.48000000000000004,16.29
+2023-07-22,Saturday,Rainy,Rajma Chawal,114,36.48,0.31999999999999995,0.93
+2023-07-23,Sunday,Cloudy,Chicken Biryani,136,43.52,0.32,0.46
+2023-07-24,Monday,Cloudy,Tinda Curry,175,70.0,0.4,29.24
+2023-07-25,Tuesday,Rainy,Lauki Kofta,160,76.8,0.48,38.92
+2023-07-26,Wednesday,Rainy,Tinda Curry,196,117.6,0.6,71.96
+2023-07-27,Thursday,Sunny,Chicken Biryani,198,79.2,0.4,0.98
+2023-07-28,Friday,Sunny,Chicken Biryani,187,89.76,0.48000000000000004,15.75
+2023-07-29,Saturday,Rainy,Lauki Kofta,140,44.8,0.32,12.49
+2023-07-30,Sunday,Rainy,Mix Veg,148,59.2,0.4,2.1
+2023-07-31,Monday,Sunny,Tinda Curry,197,118.2,0.6,72.84
+2023-08-01,Tuesday,Rainy,Mix Veg,174,69.6,0.39999999999999997,1.48
+2023-08-02,Wednesday,Rainy,Tinda Curry,176,105.6,0.6,65.12
+2023-08-03,Thursday,Sunny,Lauki Kofta,196,94.08,0.48,48.5
+2023-08-04,Friday,Cloudy,Tinda Curry,165,52.8,0.32,14.48
+2023-08-05,Saturday,Cloudy,Chicken Biryani,135,54.0,0.4,0.14
+2023-08-06,Sunday,Cloudy,Tinda Curry,148,59.2,0.4,25.13
+2023-08-07,Monday,Rainy,Tinda Curry,176,105.6,0.6,64.79
+2023-08-08,Tuesday,Rainy,Aloo Gobhi,187,59.84,0.32,1.17
+2023-08-09,Wednesday,Cloudy,Mix Veg,173,69.2,0.4,1.89
+2023-08-10,Thursday,Sunny,Chicken Biryani,197,78.8,0.39999999999999997,0.24
+2023-08-11,Friday,Cloudy,Paneer Butter Masala,171,82.08,0.48,13.99
+2023-08-12,Saturday,Cloudy,Paneer Butter Masala,134,42.88,0.32,0.82
+2023-08-13,Sunday,Cloudy,Tinda Curry,102,61.2,0.6,37.59
+2023-08-14,Monday,Sunny,Aloo Gobhi,178,85.44,0.48,16.22
+2023-08-15,Tuesday,Rainy,Aloo Gobhi,162,51.84,0.32,1.57
+2023-08-16,Wednesday,Rainy,Mix Veg,173,83.04,0.48000000000000004,15.59
+2023-08-17,Thursday,Cloudy,Tinda Curry,181,72.4,0.4,30.78
+2023-08-18,Friday,Rainy,Chicken Biryani,195,117.0,0.6,39.27
+2023-08-19,Saturday,Rainy,Aloo Gobhi,115,46.0,0.4,1.33
+2023-08-20,Sunday,Rainy,Lauki Kofta,105,50.4,0.48,25.99
+2023-08-21,Monday,Cloudy,Paneer Butter Masala,169,67.6,0.39999999999999997,0.83
+2023-08-22,Tuesday,Cloudy,Paneer Butter Masala,183,73.2,0.4,0.15
+2023-08-23,Wednesday,Sunny,Mix Veg,167,66.8,0.39999999999999997,1.75
+2023-08-24,Thursday,Cloudy,Chicken Biryani,176,56.32,0.32,0.65
+2023-08-25,Friday,Cloudy,Mix Veg,200,64.0,0.32,2.25
+2023-08-26,Saturday,Cloudy,Paneer Butter Masala,109,43.6,0.4,1.02
+2023-08-27,Sunday,Cloudy,Lauki Kofta,102,48.96,0.48,25.0
+2023-08-28,Monday,Sunny,Chicken Biryani,174,69.6,0.39999999999999997,1.04
+2023-08-29,Tuesday,Cloudy,Lauki Kofta,178,71.2,0.4,29.82
+2023-08-30,Wednesday,Cloudy,Paneer Butter Masala,196,78.4,0.4,0.58
+2023-08-31,Thursday,Sunny,Aloo Gobhi,173,83.04,0.48000000000000004,14.97
+2023-09-01,Friday,Cloudy,Mix Veg,188,60.16,0.32,2.1
+2023-09-02,Saturday,Cloudy,Aloo Gobhi,108,34.56,0.32,1.18
+2023-09-03,Sunday,Cloudy,Rajma Chawal,105,42.0,0.4,0.81
+2023-09-04,Monday,Rainy,Aloo Gobhi,187,112.2,0.6,38.65
+2023-09-05,Tuesday,Sunny,Chicken Biryani,197,78.8,0.39999999999999997,0.24
+2023-09-06,Wednesday,Sunny,Mix Veg,168,53.76,0.32,2.08
+2023-09-07,Thursday,Rainy,Aloo Gobhi,196,117.6,0.6,40.38
+2023-09-08,Friday,Cloudy,Aloo Gobhi,182,58.24,0.32,1.42
+2023-09-09,Saturday,Sunny,Lauki Kofta,114,45.6,0.4,19.14
+2023-09-10,Sunday,Cloudy,Tinda Curry,137,65.76,0.48000000000000004,34.22
+2023-09-11,Monday,Cloudy,Lauki Kofta,163,65.2,0.4,26.85
+2023-09-12,Tuesday,Sunny,Rajma Chawal,173,69.2,0.4,0.65
+2023-09-13,Wednesday,Sunny,Paneer Butter Masala,189,75.6,0.39999999999999997,0.56
+2023-09-14,Thursday,Rainy,Chicken Biryani,180,57.6,0.32,0.92
+2023-09-15,Friday,Sunny,Mix Veg,164,65.6,0.39999999999999997,1.76
+2023-09-16,Saturday,Sunny,Lauki Kofta,150,90.0,0.6,54.84
+2023-09-17,Sunday,Rainy,Rajma Chawal,127,40.64,0.32,0.43
+2023-09-18,Monday,Rainy,Tinda Curry,197,78.8,0.39999999999999997,32.66
+2023-09-19,Tuesday,Cloudy,Aloo Gobhi,176,84.48,0.48000000000000004,15.55
+2023-09-20,Wednesday,Cloudy,Chicken Biryani,188,112.8,0.6,38.19
+2023-09-21,Thursday,Rainy,Paneer Butter Masala,161,64.4,0.4,0.92
+2023-09-22,Friday,Sunny,Lauki Kofta,182,87.36,0.48,44.19
+2023-09-23,Saturday,Cloudy,Rajma Chawal,148,59.2,0.4,0.92
+2023-09-24,Sunday,Cloudy,Chicken Biryani,135,64.8,0.48,10.87
+2023-09-25,Monday,Rainy,Paneer Butter Masala,168,67.2,0.4,0.97
+2023-09-26,Tuesday,Sunny,Rajma Chawal,184,73.6,0.39999999999999997,1.08
+2023-09-27,Wednesday,Sunny,Mix Veg,165,52.8,0.32,2.04
+2023-09-28,Thursday,Cloudy,Paneer Butter Masala,181,108.6,0.6,37.03
+2023-09-29,Friday,Sunny,Chicken Biryani,198,63.36,0.32,0.38
+2023-09-30,Saturday,Cloudy,Mix Veg,102,32.64,0.32,1.42
+2023-10-01,Sunday,Rainy,Lauki Kofta,142,45.44,0.32,12.35
+2023-10-02,Monday,Sunny,Mix Veg,195,93.6,0.48,17.25
+2023-10-03,Tuesday,Cloudy,Aloo Gobhi,179,85.92,0.48,15.56
+2023-10-04,Wednesday,Cloudy,Chicken Biryani,179,71.6,0.39999999999999997,0.88
+2023-10-05,Thursday,Sunny,Tinda Curry,187,89.76,0.48000000000000004,46.02
+2023-10-06,Friday,Rainy,Tinda Curry,173,69.2,0.4,29.12
+2023-10-07,Saturday,Rainy,Chicken Biryani,121,48.4,0.39999999999999997,0.1
+2023-10-08,Sunday,Sunny,Chicken Biryani,133,53.2,0.4,0.38
+2023-10-09,Monday,Cloudy,Rajma Chawal,198,95.04,0.48000000000000004,16.27
+2023-10-10,Tuesday,Rainy,Chicken Biryani,180,72.0,0.4,0.82
+2023-10-11,Wednesday,Sunny,Lauki Kofta,192,92.16,0.48,46.79
+2023-10-12,Thursday,Rainy,Lauki Kofta,195,93.6,0.48,47.73
+2023-10-13,Friday,Sunny,Rajma Chawal,197,118.2,0.6,40.3
+2023-10-14,Saturday,Sunny,Tinda Curry,101,60.6,0.6,36.89
+2023-10-15,Sunday,Sunny,Aloo Gobhi,134,80.4,0.6000000000000001,28.33
+2023-10-16,Monday,Cloudy,Paneer Butter Masala,176,56.32,0.32,1.11
+2023-10-17,Tuesday,Sunny,Tinda Curry,161,64.4,0.4,27.04
+2023-10-18,Wednesday,Sunny,Lauki Kofta,168,53.76,0.32,14.54
+2023-10-19,Thursday,Rainy,Paneer Butter Masala,192,115.2,0.6,39.22
+2023-10-20,Friday,Cloudy,Paneer Butter Masala,175,105.0,0.6,35.47
+2023-10-21,Saturday,Cloudy,Rajma Chawal,114,45.6,0.4,0.58
+2023-10-22,Sunday,Cloudy,Mix Veg,100,32.0,0.32,1.16
+2023-10-23,Monday,Rainy,Rajma Chawal,166,53.12,0.32,0.53
+2023-10-24,Tuesday,Sunny,Chicken Biryani,163,97.8,0.6,33.14
+2023-10-25,Wednesday,Cloudy,Rajma Chawal,173,83.04,0.48000000000000004,15.05
+2023-10-26,Thursday,Rainy,Aloo Gobhi,166,66.4,0.4,1.95
+2023-10-27,Friday,Sunny,Paneer Butter Masala,192,76.8,0.39999999999999997,0.77
+2023-10-28,Saturday,Cloudy,Mix Veg,118,47.2,0.4,1.67
+2023-10-29,Sunday,Rainy,Aloo Gobhi,146,70.08,0.48,12.81
+2023-10-30,Monday,Cloudy,Lauki Kofta,198,95.04,0.48000000000000004,48.76
+2023-10-31,Tuesday,Rainy,Aloo Gobhi,171,68.4,0.4,1.45
+2023-11-01,Wednesday,Sunny,Aloo Gobhi,178,85.44,0.48,15.49
+2023-11-02,Thursday,Cloudy,Aloo Gobhi,183,73.2,0.4,1.31
+2023-11-03,Friday,Sunny,Aloo Gobhi,161,64.4,0.4,1.19
+2023-11-04,Saturday,Rainy,Paneer Butter Masala,137,54.8,0.39999999999999997,0.8
+2023-11-05,Sunday,Cloudy,Tinda Curry,104,33.28,0.32,9.41
+2023-11-06,Monday,Cloudy,Paneer Butter Masala,185,74.0,0.4,1.12
+2023-11-07,Tuesday,Rainy,Rajma Chawal,192,76.8,0.39999999999999997,1.17
+2023-11-08,Wednesday,Sunny,Chicken Biryani,160,96.0,0.6,32.39
+2023-11-09,Thursday,Sunny,Tinda Curry,161,64.4,0.4,27.27
+2023-11-10,Friday,Rainy,Aloo Gobhi,163,52.16,0.32,1.8
+2023-11-11,Saturday,Cloudy,Chicken Biryani,119,57.12,0.48,10.52
+2023-11-12,Sunday,Sunny,Aloo Gobhi,107,34.24,0.32,1.45
+2023-11-13,Monday,Sunny,Lauki Kofta,186,59.52,0.32,15.81
+2023-11-14,Tuesday,Sunny,Chicken Biryani,164,78.72,0.48,13.77
+2023-11-15,Wednesday,Sunny,Lauki Kofta,184,110.4,0.6,67.31
+2023-11-16,Thursday,Cloudy,Aloo Gobhi,167,100.2,0.6,34.97
+2023-11-17,Friday,Cloudy,Tinda Curry,169,67.6,0.39999999999999997,27.99
+2023-11-18,Saturday,Sunny,Chicken Biryani,144,57.6,0.4,0.78
+2023-11-19,Sunday,Rainy,Rajma Chawal,107,42.8,0.39999999999999997,0.65
+2023-11-20,Monday,Sunny,Paneer Butter Masala,160,64.0,0.4,0.95
+2023-11-21,Tuesday,Rainy,Tinda Curry,192,76.8,0.39999999999999997,32.29
+2023-11-22,Wednesday,Sunny,Aloo Gobhi,176,70.4,0.4,1.39
+2023-11-23,Thursday,Rainy,Paneer Butter Masala,161,51.52,0.32,1.04
+2023-11-24,Friday,Cloudy,Lauki Kofta,179,71.6,0.39999999999999997,29.73
+2023-11-25,Saturday,Cloudy,Aloo Gobhi,110,44.0,0.4,1.02
+2023-11-26,Sunday,Rainy,Mix Veg,116,37.12,0.31999999999999995,1.06
+2023-11-27,Monday,Rainy,Chicken Biryani,196,94.08,0.48,16.51
+2023-11-28,Tuesday,Sunny,Rajma Chawal,179,71.6,0.39999999999999997,0.61
+2023-11-29,Wednesday,Sunny,Paneer Butter Masala,167,53.44,0.32,0.31
+2023-11-30,Thursday,Cloudy,Lauki Kofta,165,99.0,0.6,59.84
+2023-12-01,Friday,Sunny,Mix Veg,189,90.72,0.48,16.89
+2023-12-02,Saturday,Rainy,Lauki Kofta,141,56.4,0.39999999999999997,23.13
+2023-12-03,Sunday,Sunny,Rajma Chawal,114,45.6,0.4,0.38
+2023-12-04,Monday,Rainy,Paneer Butter Masala,176,56.32,0.32,0.96
+2023-12-05,Tuesday,Rainy,Paneer Butter Masala,200,80.0,0.4,0.35
+2023-12-06,Wednesday,Rainy,Chicken Biryani,188,75.2,0.4,0.72
+2023-12-07,Thursday,Sunny,Paneer Butter Masala,196,78.4,0.4,0.89
+2023-12-08,Friday,Cloudy,Aloo Gobhi,178,106.8,0.6,37.13
+2023-12-09,Saturday,Cloudy,Aloo Gobhi,106,42.4,0.39999999999999997,0.79
+2023-12-10,Sunday,Cloudy,Rajma Chawal,124,74.4,0.6000000000000001,25.46
+2023-12-11,Monday,Rainy,Paneer Butter Masala,196,62.72,0.32,1.04
+2023-12-12,Tuesday,Cloudy,Paneer Butter Masala,188,75.2,0.4,0.7
+2023-12-13,Wednesday,Cloudy,Rajma Chawal,180,108.0,0.6,36.64
+2023-12-14,Thursday,Rainy,Chicken Biryani,166,66.4,0.4,0.82
+2023-12-15,Friday,Rainy,Chicken Biryani,166,99.6,0.6,34.03
+2023-12-16,Saturday,Sunny,Chicken Biryani,122,39.04,0.32,0.74
+2023-12-17,Sunday,Sunny,Rajma Chawal,114,54.72,0.48,9.51
+2023-12-18,Monday,Cloudy,Lauki Kofta,197,78.8,0.39999999999999997,32.09
+2023-12-19,Tuesday,Rainy,Aloo Gobhi,191,61.12,0.32,1.49
+2023-12-20,Wednesday,Sunny,Lauki Kofta,187,89.76,0.48000000000000004,46.28
+2023-12-21,Thursday,Sunny,Rajma Chawal,199,63.68,0.32,1.2
+2023-12-22,Friday,Sunny,Paneer Butter Masala,173,69.2,0.4,0.85
+2023-12-23,Saturday,Sunny,Tinda Curry,137,54.8,0.39999999999999997,22.85
+2023-12-24,Sunday,Sunny,Paneer Butter Masala,122,39.04,0.32,0.58
+2023-12-25,Monday,Rainy,Chicken Biryani,194,62.08,0.32,0.43
+2023-12-26,Tuesday,Sunny,Tinda Curry,181,57.92,0.32,15.39
+2023-12-27,Wednesday,Cloudy,Chicken Biryani,164,65.6,0.39999999999999997,0.8
+2023-12-28,Thursday,Sunny,Rajma Chawal,160,64.0,0.4,0.53
+2023-12-29,Friday,Sunny,Tinda Curry,163,78.24,0.48,40.86
+2023-12-30,Saturday,Sunny,Aloo Gobhi,115,46.0,0.4,1.4
+2023-12-31,Sunday,Sunny,Paneer Butter Masala,137,82.2,0.6,27.87
+2024-01-01,Monday,Sunny,Mix Veg,183,73.2,0.4,2.41
+2024-01-02,Tuesday,Cloudy,Mix Veg,172,82.56,0.48000000000000004,15.73
+2024-01-03,Wednesday,Cloudy,Chicken Biryani,185,74.0,0.4,0.49
+2024-01-04,Thursday,Sunny,Lauki Kofta,176,56.32,0.32,15.01
+2024-01-05,Friday,Cloudy,Paneer Butter Masala,196,117.6,0.6,39.81
+2024-01-06,Saturday,Cloudy,Lauki Kofta,109,43.6,0.4,18.17
+2024-01-07,Sunday,Rainy,Lauki Kofta,146,46.72,0.32,12.16
+2024-01-08,Monday,Cloudy,Chicken Biryani,162,51.84,0.32,0.9
+2024-01-09,Tuesday,Sunny,Lauki Kofta,180,57.6,0.32,15.32
+2024-01-10,Wednesday,Rainy,Chicken Biryani,187,112.2,0.6,38.02
+2024-01-11,Thursday,Sunny,Rajma Chawal,193,92.64,0.48,15.96
+2024-01-12,Friday,Sunny,Rajma Chawal,194,62.08,0.32,0.54
+2024-01-13,Saturday,Sunny,Paneer Butter Masala,137,54.8,0.39999999999999997,1.05
+2024-01-14,Sunday,Rainy,Aloo Gobhi,100,40.0,0.4,0.65
+2024-01-15,Monday,Sunny,Chicken Biryani,197,94.56,0.48000000000000004,16.13
+2024-01-16,Tuesday,Rainy,Lauki Kofta,200,80.0,0.4,33.36
+2024-01-17,Wednesday,Sunny,Rajma Chawal,173,103.8,0.6,35.73
+2024-01-18,Thursday,Rainy,Tinda Curry,193,77.2,0.4,32.74
+2024-01-19,Friday,Rainy,Aloo Gobhi,186,89.28,0.48,16.96
+2024-01-20,Saturday,Cloudy,Aloo Gobhi,120,48.0,0.4,0.75
+2024-01-21,Sunday,Sunny,Tinda Curry,130,52.0,0.4,22.04
+2024-01-22,Monday,Cloudy,Paneer Butter Masala,173,103.8,0.6,35.08
+2024-01-23,Tuesday,Sunny,Lauki Kofta,180,72.0,0.4,30.04
+2024-01-24,Wednesday,Rainy,Aloo Gobhi,191,76.4,0.4,1.53
+2024-01-25,Thursday,Rainy,Mix Veg,190,76.0,0.4,2.26
+2024-01-26,Friday,Rainy,Aloo Gobhi,183,73.2,0.4,1.95
+2024-01-27,Saturday,Cloudy,Rajma Chawal,110,44.0,0.4,1.1
+2024-01-28,Sunday,Cloudy,Mix Veg,125,75.0,0.6,26.49
+2024-01-29,Monday,Sunny,Paneer Butter Masala,185,59.2,0.32,0.68
+2024-01-30,Tuesday,Sunny,Paneer Butter Masala,177,70.8,0.39999999999999997,1.01
+2024-01-31,Wednesday,Cloudy,Mix Veg,188,75.2,0.4,2.35
+2024-02-01,Thursday,Cloudy,Chicken Biryani,175,70.0,0.4,0.65
+2024-02-02,Friday,Rainy,Paneer Butter Masala,162,64.8,0.39999999999999997,1.05
+2024-02-03,Saturday,Rainy,Lauki Kofta,107,64.2,0.6,39.46
+2024-02-04,Sunday,Sunny,Rajma Chawal,116,46.4,0.39999999999999997,0.7
+2024-02-05,Monday,Sunny,Rajma Chawal,169,54.08,0.32,1.14
+2024-02-06,Tuesday,Cloudy,Rajma Chawal,161,64.4,0.4,0.61
+2024-02-07,Wednesday,Sunny,Chicken Biryani,196,94.08,0.48,16.29
+2024-02-08,Thursday,Cloudy,Paneer Butter Masala,199,79.6,0.39999999999999997,0.38
+2024-02-09,Friday,Rainy,Lauki Kofta,181,57.92,0.32,15.38
+2024-02-10,Saturday,Cloudy,Lauki Kofta,113,36.16,0.31999999999999995,10.11
+2024-02-11,Sunday,Rainy,Paneer Butter Masala,121,72.6,0.6,25.15
+2024-02-12,Monday,Cloudy,Paneer Butter Masala,192,76.8,0.39999999999999997,0.64
+2024-02-13,Tuesday,Cloudy,Rajma Chawal,170,54.4,0.32,0.75
+2024-02-14,Wednesday,Sunny,Chicken Biryani,185,74.0,0.4,0.53
+2024-02-15,Thursday,Sunny,Aloo Gobhi,184,88.32,0.48,16.69
+2024-02-16,Friday,Rainy,Paneer Butter Masala,188,90.24,0.48,15.83
+2024-02-17,Saturday,Sunny,Tinda Curry,141,56.4,0.39999999999999997,24.0
+2024-02-18,Sunday,Cloudy,Mix Veg,109,34.88,0.32,1.38
+2024-02-19,Monday,Cloudy,Aloo Gobhi,195,93.6,0.48,16.85
+2024-02-20,Tuesday,Rainy,Paneer Butter Masala,171,68.4,0.4,0.78
+2024-02-21,Wednesday,Rainy,Paneer Butter Masala,190,76.0,0.4,0.62
+2024-02-22,Thursday,Sunny,Tinda Curry,192,76.8,0.39999999999999997,32.54
+2024-02-23,Friday,Cloudy,Aloo Gobhi,174,69.6,0.39999999999999997,1.12
+2024-02-24,Saturday,Cloudy,Lauki Kofta,149,89.4,0.6000000000000001,54.75
+2024-02-25,Sunday,Sunny,Chicken Biryani,124,49.6,0.4,0.12
+2024-02-26,Monday,Sunny,Paneer Butter Masala,169,81.12,0.48000000000000004,14.21
+2024-02-27,Tuesday,Sunny,Paneer Butter Masala,200,64.0,0.32,0.76
+2024-02-28,Wednesday,Cloudy,Mix Veg,163,78.24,0.48,15.13
+2024-02-29,Thursday,Rainy,Tinda Curry,186,89.28,0.48,45.57
+2024-03-01,Friday,Cloudy,Paneer Butter Masala,183,73.2,0.4,1.03
+2024-03-02,Saturday,Sunny,Mix Veg,148,59.2,0.4,1.4
+2024-03-03,Sunday,Rainy,Aloo Gobhi,114,45.6,0.4,0.7
+2024-03-04,Monday,Cloudy,Mix Veg,181,72.4,0.4,1.85
+2024-03-05,Tuesday,Cloudy,Rajma Chawal,189,90.72,0.48,15.77
+2024-03-06,Wednesday,Cloudy,Tinda Curry,198,118.8,0.6,72.4
+2024-03-07,Thursday,Cloudy,Tinda Curry,179,85.92,0.48,44.85
+2024-03-08,Friday,Cloudy,Tinda Curry,188,112.8,0.6,68.87
+2024-03-09,Saturday,Rainy,Chicken Biryani,141,67.68,0.48000000000000004,11.45
+2024-03-10,Sunday,Rainy,Mix Veg,114,45.6,0.4,1.29
+2024-03-11,Monday,Sunny,Mix Veg,187,74.8,0.39999999999999997,2.27
+2024-03-12,Tuesday,Sunny,Mix Veg,167,66.8,0.39999999999999997,1.48
+2024-03-13,Wednesday,Sunny,Lauki Kofta,185,74.0,0.4,30.21
+2024-03-14,Thursday,Cloudy,Rajma Chawal,190,60.8,0.32,1.09
+2024-03-15,Friday,Rainy,Tinda Curry,198,95.04,0.48000000000000004,49.05
+2024-03-16,Saturday,Cloudy,Lauki Kofta,128,61.44,0.48,31.78
+2024-03-17,Sunday,Sunny,Rajma Chawal,148,47.36,0.32,1.09
+2024-03-18,Monday,Cloudy,Tinda Curry,190,91.2,0.48000000000000004,47.43
+2024-03-19,Tuesday,Rainy,Aloo Gobhi,189,75.6,0.39999999999999997,1.63
+2024-03-20,Wednesday,Sunny,Aloo Gobhi,166,99.6,0.6,35.11
+2024-03-21,Thursday,Sunny,Paneer Butter Masala,167,80.16,0.48,14.18
+2024-03-22,Friday,Sunny,Aloo Gobhi,186,59.52,0.32,2.04
+2024-03-23,Saturday,Cloudy,Aloo Gobhi,112,35.84,0.32,0.85
+2024-03-24,Sunday,Rainy,Rajma Chawal,110,52.8,0.48,9.06
+2024-03-25,Monday,Rainy,Aloo Gobhi,189,75.6,0.39999999999999997,1.41
+2024-03-26,Tuesday,Rainy,Tinda Curry,167,100.2,0.6,61.57
+2024-03-27,Wednesday,Rainy,Mix Veg,172,68.8,0.39999999999999997,1.55
+2024-03-28,Thursday,Rainy,Rajma Chawal,177,84.96,0.48,14.82
+2024-03-29,Friday,Rainy,Chicken Biryani,184,58.88,0.32,0.16
+2024-03-30,Saturday,Sunny,Tinda Curry,140,84.0,0.6,51.14
+2024-03-31,Sunday,Rainy,Tinda Curry,120,38.4,0.32,10.21
+2024-04-01,Monday,Sunny,Chicken Biryani,170,68.0,0.4,0.56
+2024-04-02,Tuesday,Cloudy,Tinda Curry,192,76.8,0.39999999999999997,31.97
+2024-04-03,Wednesday,Cloudy,Aloo Gobhi,176,70.4,0.4,1.07
+2024-04-04,Thursday,Rainy,Aloo Gobhi,168,100.8,0.6,35.34
+2024-04-05,Friday,Sunny,Chicken Biryani,176,70.4,0.4,0.17
+2024-04-06,Saturday,Rainy,Rajma Chawal,147,58.8,0.39999999999999997,0.49
+2024-04-07,Sunday,Rainy,Rajma Chawal,131,78.6,0.6,26.9
+2024-04-08,Monday,Rainy,Lauki Kofta,169,67.6,0.39999999999999997,27.93
+2024-04-09,Tuesday,Rainy,Chicken Biryani,187,59.84,0.32,0.28
+2024-04-10,Wednesday,Cloudy,Mix Veg,171,102.6,0.6,36.47
+2024-04-11,Thursday,Cloudy,Chicken Biryani,193,115.8,0.6,38.68
+2024-04-12,Friday,Sunny,Lauki Kofta,191,91.68,0.48000000000000004,46.34
+2024-04-13,Saturday,Sunny,Rajma Chawal,141,84.6,0.6,29.06
+2024-04-14,Sunday,Cloudy,Mix Veg,136,43.52,0.32,1.59
+2024-04-15,Monday,Cloudy,Lauki Kofta,186,89.28,0.48,45.11
+2024-04-16,Tuesday,Rainy,Tinda Curry,191,76.4,0.4,32.01
+2024-04-17,Wednesday,Cloudy,Mix Veg,196,94.08,0.48,17.44
+2024-04-18,Thursday,Cloudy,Mix Veg,161,64.4,0.4,1.45
+2024-04-19,Friday,Rainy,Paneer Butter Masala,162,64.8,0.39999999999999997,0.9
+2024-04-20,Saturday,Cloudy,Rajma Chawal,149,59.6,0.4,1.13
+2024-04-21,Sunday,Sunny,Mix Veg,130,62.4,0.48,11.57
+2024-04-22,Monday,Rainy,Mix Veg,186,74.4,0.4,1.99
+2024-04-23,Tuesday,Sunny,Aloo Gobhi,186,74.4,0.4,1.39
+2024-04-24,Wednesday,Sunny,Mix Veg,172,82.56,0.48000000000000004,15.55
+2024-04-25,Thursday,Cloudy,Mix Veg,168,67.2,0.4,1.76
+2024-04-26,Friday,Cloudy,Lauki Kofta,186,59.52,0.32,15.66
+2024-04-27,Saturday,Cloudy,Lauki Kofta,129,51.6,0.4,21.58
+2024-04-28,Sunday,Cloudy,Chicken Biryani,102,61.2,0.6,20.71
+2024-04-29,Monday,Sunny,Rajma Chawal,194,62.08,0.32,1.27
+2024-04-30,Tuesday,Cloudy,Lauki Kofta,160,76.8,0.48,39.29
+2024-05-01,Wednesday,Cloudy,Aloo Gobhi,175,84.0,0.48,15.51
+2024-05-02,Thursday,Cloudy,Paneer Butter Masala,173,83.04,0.48000000000000004,14.1
+2024-05-03,Friday,Rainy,Rajma Chawal,192,115.2,0.6,39.25
+2024-05-04,Saturday,Cloudy,Aloo Gobhi,141,67.68,0.48000000000000004,12.73
+2024-05-05,Sunday,Sunny,Mix Veg,129,61.92,0.48000000000000004,11.36
+2024-05-06,Monday,Sunny,Paneer Butter Masala,162,64.8,0.39999999999999997,0.43
+2024-05-07,Tuesday,Rainy,Chicken Biryani,180,86.4,0.48000000000000004,15.02
+2024-05-08,Wednesday,Rainy,Paneer Butter Masala,182,87.36,0.48,15.65
+2024-05-09,Thursday,Rainy,Chicken Biryani,176,84.48,0.48000000000000004,14.82
+2024-05-10,Friday,Sunny,Tinda Curry,166,66.4,0.4,28.13
+2024-05-11,Saturday,Sunny,Mix Veg,136,43.52,0.32,1.81
+2024-05-12,Sunday,Cloudy,Chicken Biryani,101,32.32,0.32,0.87
+2024-05-13,Monday,Rainy,Mix Veg,186,74.4,0.4,2.24
+2024-05-14,Tuesday,Rainy,Tinda Curry,174,55.68,0.32,15.05
+2024-05-15,Wednesday,Rainy,Lauki Kofta,190,114.0,0.6,69.62
+2024-05-16,Thursday,Rainy,Aloo Gobhi,193,92.64,0.48,17.55
+2024-05-17,Friday,Cloudy,Rajma Chawal,168,80.64,0.48,14.15
+2024-05-18,Saturday,Cloudy,Mix Veg,145,87.0,0.6,30.17
+2024-05-19,Sunday,Cloudy,Chicken Biryani,128,51.2,0.4,0.18
+2024-05-20,Monday,Sunny,Mix Veg,178,71.2,0.4,1.52
+2024-05-21,Tuesday,Cloudy,Paneer Butter Masala,184,88.32,0.48,15.65
+2024-05-22,Wednesday,Sunny,Mix Veg,189,113.4,0.6,40.29
+2024-05-23,Thursday,Sunny,Chicken Biryani,175,84.0,0.48,14.98
+2024-05-24,Friday,Rainy,Mix Veg,177,70.8,0.39999999999999997,2.12
+2024-05-25,Saturday,Cloudy,Paneer Butter Masala,108,34.56,0.32,0.66
+2024-05-26,Sunday,Rainy,Tinda Curry,137,65.76,0.48000000000000004,33.6
+2024-05-27,Monday,Cloudy,Paneer Butter Masala,188,60.16,0.32,0.36
+2024-05-28,Tuesday,Rainy,Paneer Butter Masala,162,51.84,0.32,0.64
+2024-05-29,Wednesday,Cloudy,Lauki Kofta,185,111.0,0.6,67.92
+2024-05-30,Thursday,Cloudy,Chicken Biryani,193,77.2,0.4,0.53
+2024-05-31,Friday,Cloudy,Rajma Chawal,184,58.88,0.32,0.86
+2024-06-01,Saturday,Sunny,Aloo Gobhi,144,57.6,0.4,1.66
+2024-06-02,Sunday,Cloudy,Aloo Gobhi,115,46.0,0.4,1.3
+2024-06-03,Monday,Rainy,Lauki Kofta,199,63.68,0.32,17.09
+2024-06-04,Tuesday,Rainy,Lauki Kofta,178,85.44,0.48,43.3
+2024-06-05,Wednesday,Cloudy,Chicken Biryani,195,93.6,0.48,16.3
+2024-06-06,Thursday,Sunny,Chicken Biryani,172,82.56,0.48000000000000004,14.69
+2024-06-07,Friday,Rainy,Aloo Gobhi,168,67.2,0.4,1.6
+2024-06-08,Saturday,Rainy,Lauki Kofta,104,41.6,0.4,17.87
+2024-06-09,Sunday,Rainy,Aloo Gobhi,124,49.6,0.4,0.89
+2024-06-10,Monday,Sunny,Tinda Curry,172,68.8,0.39999999999999997,29.3
+2024-06-11,Tuesday,Sunny,Aloo Gobhi,179,107.4,0.6,37.67
+2024-06-12,Wednesday,Cloudy,Lauki Kofta,199,79.6,0.39999999999999997,32.58
+2024-06-13,Thursday,Rainy,Aloo Gobhi,181,86.88,0.48,15.58
+2024-06-14,Friday,Rainy,Lauki Kofta,194,93.12,0.48000000000000004,47.44
+2024-06-15,Saturday,Rainy,Tinda Curry,126,50.4,0.39999999999999997,21.58
+2024-06-16,Sunday,Cloudy,Chicken Biryani,143,57.2,0.4,0.2
+2024-06-17,Monday,Rainy,Mix Veg,197,94.56,0.48000000000000004,18.06
+2024-06-18,Tuesday,Sunny,Lauki Kofta,173,55.36,0.32,14.52
+2024-06-19,Wednesday,Cloudy,Tinda Curry,200,96.0,0.48,49.75
+2024-06-20,Thursday,Cloudy,Rajma Chawal,180,57.6,0.32,1.16
+2024-06-21,Friday,Sunny,Chicken Biryani,164,52.48,0.32,0.87
+2024-06-22,Saturday,Sunny,Mix Veg,106,50.88,0.48000000000000004,9.59
+2024-06-23,Sunday,Sunny,Tinda Curry,135,64.8,0.48,33.33
+2024-06-24,Monday,Cloudy,Rajma Chawal,190,76.0,0.4,0.43
+2024-06-25,Tuesday,Rainy,Aloo Gobhi,174,69.6,0.39999999999999997,1.26
+2024-06-26,Wednesday,Sunny,Mix Veg,197,78.8,0.39999999999999997,1.72
+2024-06-27,Thursday,Cloudy,Chicken Biryani,179,57.28,0.32,0.53
+2024-06-28,Friday,Sunny,Mix Veg,199,63.68,0.32,2.26
+2024-06-29,Saturday,Rainy,Tinda Curry,107,64.2,0.6,39.34
+2024-06-30,Sunday,Sunny,Rajma Chawal,127,60.96,0.48,11.05
+2024-07-01,Monday,Rainy,Paneer Butter Masala,164,65.6,0.39999999999999997,1.09
+2024-07-02,Tuesday,Rainy,Rajma Chawal,195,93.6,0.48,16.45
+2024-07-03,Wednesday,Rainy,Lauki Kofta,185,59.2,0.32,15.36
+2024-07-04,Thursday,Rainy,Paneer Butter Masala,177,70.8,0.39999999999999997,0.25
+2024-07-05,Friday,Sunny,Chicken Biryani,166,53.12,0.32,0.74
+2024-07-06,Saturday,Cloudy,Aloo Gobhi,139,55.6,0.4,1.35
+2024-07-07,Sunday,Sunny,Lauki Kofta,102,48.96,0.48,25.12
+2024-07-08,Monday,Cloudy,Chicken Biryani,175,70.0,0.4,0.43
+2024-07-09,Tuesday,Rainy,Aloo Gobhi,160,76.8,0.48,13.79
+2024-07-10,Wednesday,Rainy,Mix Veg,162,77.76,0.48000000000000004,15.03
+2024-07-11,Thursday,Rainy,Lauki Kofta,161,51.52,0.32,13.32
+2024-07-12,Friday,Rainy,Paneer Butter Masala,181,86.88,0.48,14.71
+2024-07-13,Saturday,Cloudy,Lauki Kofta,109,34.88,0.32,9.53
+2024-07-14,Sunday,Sunny,Rajma Chawal,135,81.0,0.6,27.89
+2024-07-15,Monday,Sunny,Lauki Kofta,200,96.0,0.48,48.99
+2024-07-16,Tuesday,Rainy,Chicken Biryani,190,76.0,0.4,0.16
+2024-07-17,Wednesday,Sunny,Aloo Gobhi,200,64.0,0.32,1.61
+2024-07-18,Thursday,Rainy,Paneer Butter Masala,197,94.56,0.48000000000000004,16.83
+2024-07-19,Friday,Sunny,Aloo Gobhi,187,112.2,0.6,38.65
+2024-07-20,Saturday,Cloudy,Tinda Curry,125,75.0,0.6,46.04
+2024-07-21,Sunday,Sunny,Lauki Kofta,105,42.0,0.4,17.07
+2024-07-22,Monday,Cloudy,Chicken Biryani,183,58.56,0.32,0.24
+2024-07-23,Tuesday,Sunny,Aloo Gobhi,194,62.08,0.32,1.42
+2024-07-24,Wednesday,Rainy,Lauki Kofta,181,86.88,0.48,44.21
+2024-07-25,Thursday,Cloudy,Tinda Curry,185,74.0,0.4,31.01
+2024-07-26,Friday,Cloudy,Lauki Kofta,196,94.08,0.48,47.76
+2024-07-27,Saturday,Cloudy,Mix Veg,118,47.2,0.4,1.5
+2024-07-28,Sunday,Cloudy,Chicken Biryani,138,82.8,0.6,27.92
+2024-07-29,Monday,Sunny,Aloo Gobhi,180,72.0,0.4,1.69
+2024-07-30,Tuesday,Cloudy,Rajma Chawal,165,52.8,0.32,0.33
+2024-07-31,Wednesday,Rainy,Aloo Gobhi,175,105.0,0.6,36.06
+2024-08-01,Thursday,Cloudy,Tinda Curry,186,111.6,0.6,68.1
+2024-08-02,Friday,Rainy,Rajma Chawal,178,106.8,0.6,36.91
+2024-08-03,Saturday,Rainy,Rajma Chawal,112,67.2,0.6,22.87
+2024-08-04,Sunday,Cloudy,Rajma Chawal,147,58.8,0.39999999999999997,0.36
+2024-08-05,Monday,Sunny,Mix Veg,163,78.24,0.48,14.42
+2024-08-06,Tuesday,Sunny,Tinda Curry,190,60.8,0.32,16.48
+2024-08-07,Wednesday,Cloudy,Chicken Biryani,166,53.12,0.32,0.09
+2024-08-08,Thursday,Cloudy,Tinda Curry,179,71.6,0.39999999999999997,30.38
+2024-08-09,Friday,Sunny,Chicken Biryani,160,51.2,0.32,0.68
+2024-08-10,Saturday,Rainy,Lauki Kofta,119,38.08,0.32,10.81
+2024-08-11,Sunday,Rainy,Rajma Chawal,121,48.4,0.39999999999999997,0.82
+2024-08-12,Monday,Rainy,Chicken Biryani,191,76.4,0.4,0.43
+2024-08-13,Tuesday,Sunny,Tinda Curry,175,105.0,0.6,64.0
+2024-08-14,Wednesday,Rainy,Mix Veg,164,52.48,0.32,1.51
+2024-08-15,Thursday,Sunny,Tinda Curry,187,74.8,0.39999999999999997,31.2
+2024-08-16,Friday,Sunny,Chicken Biryani,193,77.2,0.4,0.12
+2024-08-17,Saturday,Sunny,Tinda Curry,113,67.8,0.6,41.42
+2024-08-18,Sunday,Cloudy,Rajma Chawal,149,71.52,0.48,13.19
+2024-08-19,Monday,Rainy,Paneer Butter Masala,184,73.6,0.39999999999999997,1.03
+2024-08-20,Tuesday,Rainy,Aloo Gobhi,199,119.4,0.6,41.0
+2024-08-21,Wednesday,Cloudy,Lauki Kofta,163,65.2,0.4,27.22
+2024-08-22,Thursday,Rainy,Rajma Chawal,189,90.72,0.48,15.9
+2024-08-23,Friday,Sunny,Tinda Curry,175,84.0,0.48,43.08
+2024-08-24,Saturday,Sunny,Mix Veg,121,38.72,0.32,1.54
+2024-08-25,Sunday,Rainy,Aloo Gobhi,144,57.6,0.4,0.99
+2024-08-26,Monday,Sunny,Mix Veg,161,64.4,0.4,1.91
+2024-08-27,Tuesday,Rainy,Tinda Curry,181,108.6,0.6,66.78
+2024-08-28,Wednesday,Cloudy,Mix Veg,168,67.2,0.4,2.13
+2024-08-29,Thursday,Sunny,Lauki Kofta,185,59.2,0.32,15.68
+2024-08-30,Friday,Cloudy,Tinda Curry,176,84.48,0.48000000000000004,43.53
+2024-08-31,Saturday,Rainy,Mix Veg,147,70.56,0.48000000000000004,13.69
+2024-09-01,Sunday,Rainy,Tinda Curry,100,32.0,0.32,9.15
+2024-09-02,Monday,Rainy,Lauki Kofta,162,77.76,0.48000000000000004,40.28
+2024-09-03,Tuesday,Cloudy,Aloo Gobhi,178,56.96,0.32,1.27
+2024-09-04,Wednesday,Sunny,Chicken Biryani,200,80.0,0.4,0.92
+2024-09-05,Thursday,Sunny,Rajma Chawal,182,109.2,0.6,37.62
+2024-09-06,Friday,Cloudy,Paneer Butter Masala,197,118.2,0.6,39.62
+2024-09-07,Saturday,Rainy,Rajma Chawal,149,59.6,0.4,1.26
+2024-09-08,Sunday,Sunny,Rajma Chawal,111,35.52,0.32,0.28
+2024-09-09,Monday,Sunny,Aloo Gobhi,174,69.6,0.39999999999999997,1.89
+2024-09-10,Tuesday,Sunny,Mix Veg,168,53.76,0.32,2.31
+2024-09-11,Wednesday,Sunny,Paneer Butter Masala,179,71.6,0.39999999999999997,1.0
+2024-09-12,Thursday,Sunny,Lauki Kofta,174,69.6,0.39999999999999997,29.21
+2024-09-13,Friday,Cloudy,Tinda Curry,192,76.8,0.39999999999999997,32.29
+2024-09-14,Saturday,Rainy,Paneer Butter Masala,134,64.32,0.4799999999999999,10.93
+2024-09-15,Sunday,Rainy,Tinda Curry,108,51.84,0.48000000000000004,27.19
+2024-09-16,Monday,Cloudy,Chicken Biryani,187,59.84,0.32,0.81
+2024-09-17,Tuesday,Cloudy,Mix Veg,178,71.2,0.4,1.99
+2024-09-18,Wednesday,Cloudy,Chicken Biryani,177,70.8,0.39999999999999997,0.53
+2024-09-19,Thursday,Rainy,Paneer Butter Masala,184,73.6,0.39999999999999997,0.26
+2024-09-20,Friday,Sunny,Mix Veg,169,54.08,0.32,1.91
+2024-09-21,Saturday,Cloudy,Aloo Gobhi,117,46.8,0.39999999999999997,1.66
+2024-09-22,Sunday,Rainy,Tinda Curry,136,43.52,0.32,12.02
+2024-09-23,Monday,Sunny,Lauki Kofta,195,78.0,0.4,32.42
+2024-09-24,Tuesday,Sunny,Paneer Butter Masala,199,95.52,0.48,16.31
+2024-09-25,Wednesday,Cloudy,Mix Veg,200,64.0,0.32,2.3
+2024-09-26,Thursday,Rainy,Aloo Gobhi,167,80.16,0.48,14.72
+2024-09-27,Friday,Cloudy,Chicken Biryani,176,84.48,0.48000000000000004,14.95
+2024-09-28,Saturday,Sunny,Mix Veg,103,41.2,0.4,1.46
+2024-09-29,Sunday,Cloudy,Aloo Gobhi,121,72.6,0.6,25.84
+2024-09-30,Monday,Rainy,Chicken Biryani,189,113.4,0.6,38.66
+2024-10-01,Tuesday,Sunny,Rajma Chawal,190,60.8,0.32,1.35
+2024-10-02,Wednesday,Cloudy,Paneer Butter Masala,176,70.4,0.4,0.36
+2024-10-03,Thursday,Rainy,Mix Veg,174,69.6,0.39999999999999997,1.73
+2024-10-04,Friday,Rainy,Mix Veg,167,66.8,0.39999999999999997,2.14
+2024-10-05,Saturday,Sunny,Rajma Chawal,126,75.6,0.6,25.81
+2024-10-06,Sunday,Rainy,Chicken Biryani,140,67.2,0.48000000000000004,11.29
+2024-10-07,Monday,Sunny,Chicken Biryani,162,51.84,0.32,0.57
+2024-10-08,Tuesday,Cloudy,Mix Veg,172,68.8,0.39999999999999997,1.7
+2024-10-09,Wednesday,Cloudy,Aloo Gobhi,175,105.0,0.6,36.27
+2024-10-10,Thursday,Sunny,Lauki Kofta,182,58.24,0.32,15.47
+2024-10-11,Friday,Sunny,Tinda Curry,184,58.88,0.32,15.99
+2024-10-12,Saturday,Cloudy,Rajma Chawal,140,56.0,0.4,0.38
+2024-10-13,Sunday,Cloudy,Aloo Gobhi,146,87.6,0.6,30.33
+2024-10-14,Monday,Sunny,Rajma Chawal,180,108.0,0.6,36.88
+2024-10-15,Tuesday,Rainy,Chicken Biryani,191,61.12,0.32,0.51
+2024-10-16,Wednesday,Rainy,Tinda Curry,162,64.8,0.39999999999999997,27.1
+2024-10-17,Thursday,Sunny,Mix Veg,172,68.8,0.39999999999999997,1.94
+2024-10-18,Friday,Cloudy,Mix Veg,176,84.48,0.48000000000000004,15.7
+2024-10-19,Saturday,Sunny,Chicken Biryani,120,38.4,0.32,0.93
+2024-10-20,Sunday,Cloudy,Rajma Chawal,129,51.6,0.4,0.71
+2024-10-21,Monday,Rainy,Rajma Chawal,185,74.0,0.4,1.36
+2024-10-22,Tuesday,Cloudy,Aloo Gobhi,176,84.48,0.48000000000000004,15.47
+2024-10-23,Wednesday,Sunny,Chicken Biryani,192,61.44,0.32,0.59
+2024-10-24,Thursday,Cloudy,Paneer Butter Masala,192,92.16,0.48,16.41
+2024-10-25,Friday,Cloudy,Lauki Kofta,162,64.8,0.39999999999999997,26.68
+2024-10-26,Saturday,Sunny,Tinda Curry,115,36.8,0.31999999999999995,10.29
+2024-10-27,Sunday,Sunny,Tinda Curry,100,60.0,0.6,36.74
+2024-10-28,Monday,Cloudy,Mix Veg,195,62.4,0.32,1.96
+2024-10-29,Tuesday,Rainy,Rajma Chawal,197,78.8,0.39999999999999997,0.62
+2024-10-30,Wednesday,Sunny,Lauki Kofta,180,57.6,0.32,14.91
+2024-10-31,Thursday,Cloudy,Mix Veg,166,79.68,0.48000000000000004,15.39
+2024-11-01,Friday,Sunny,Paneer Butter Masala,164,65.6,0.39999999999999997,0.69
+2024-11-02,Saturday,Sunny,Aloo Gobhi,118,56.64,0.48,10.73
+2024-11-03,Sunday,Cloudy,Chicken Biryani,101,60.6,0.6,21.15
+2024-11-04,Monday,Sunny,Tinda Curry,168,100.8,0.6,61.65
+2024-11-05,Tuesday,Cloudy,Lauki Kofta,160,64.0,0.4,26.38
+2024-11-06,Wednesday,Cloudy,Mix Veg,162,64.8,0.39999999999999997,1.57
+2024-11-07,Thursday,Sunny,Paneer Butter Masala,187,59.84,0.32,0.54
+2024-11-08,Friday,Cloudy,Chicken Biryani,185,74.0,0.4,0.2
+2024-11-09,Saturday,Cloudy,Paneer Butter Masala,102,61.2,0.6,21.21
+2024-11-10,Sunday,Cloudy,Tinda Curry,150,60.0,0.4,25.02
+2024-11-11,Monday,Sunny,Mix Veg,184,58.88,0.32,2.05
+2024-11-12,Tuesday,Sunny,Mix Veg,187,59.84,0.32,2.0
+2024-11-13,Wednesday,Rainy,Mix Veg,180,108.0,0.6,37.89
+2024-11-14,Thursday,Cloudy,Paneer Butter Masala,176,105.6,0.6,35.51
+2024-11-15,Friday,Sunny,Aloo Gobhi,174,83.52,0.48,15.42
+2024-11-16,Saturday,Sunny,Lauki Kofta,146,46.72,0.32,12.14
+2024-11-17,Sunday,Sunny,Lauki Kofta,133,63.84,0.48000000000000004,32.26
+2024-11-18,Monday,Sunny,Mix Veg,184,110.4,0.6,38.87
+2024-11-19,Tuesday,Rainy,Rajma Chawal,172,103.2,0.6,35.31
+2024-11-20,Wednesday,Sunny,Tinda Curry,183,58.56,0.32,16.14
+2024-11-21,Thursday,Rainy,Tinda Curry,176,105.6,0.6,64.65
+2024-11-22,Friday,Sunny,Aloo Gobhi,190,91.2,0.48000000000000004,16.82
+2024-11-23,Saturday,Sunny,Tinda Curry,100,32.0,0.32,9.16
+2024-11-24,Sunday,Cloudy,Rajma Chawal,138,82.8,0.6,27.89
+2024-11-25,Monday,Rainy,Aloo Gobhi,167,66.8,0.39999999999999997,1.58
+2024-11-26,Tuesday,Rainy,Rajma Chawal,165,66.0,0.4,0.39
+2024-11-27,Wednesday,Rainy,Lauki Kofta,187,74.8,0.39999999999999997,30.8
+2024-11-28,Thursday,Cloudy,Chicken Biryani,175,105.0,0.6,36.01
+2024-11-29,Friday,Rainy,Aloo Gobhi,183,87.84,0.48000000000000004,15.84
+2024-11-30,Saturday,Rainy,Tinda Curry,136,43.52,0.32,11.79
+2024-12-01,Sunday,Sunny,Rajma Chawal,114,68.4,0.6000000000000001,23.4
+2024-12-02,Monday,Rainy,Aloo Gobhi,186,89.28,0.48,16.04
+2024-12-03,Tuesday,Cloudy,Mix Veg,169,101.4,0.6000000000000001,36.02
+2024-12-04,Wednesday,Sunny,Mix Veg,191,91.68,0.48000000000000004,17.7
+2024-12-05,Thursday,Sunny,Chicken Biryani,185,111.0,0.6,37.33
+2024-12-06,Friday,Sunny,Tinda Curry,170,54.4,0.32,14.97
+2024-12-07,Saturday,Rainy,Paneer Butter Masala,131,41.92,0.32,1.05
+2024-12-08,Sunday,Cloudy,Paneer Butter Masala,136,43.52,0.32,0.47
+2024-12-09,Monday,Rainy,Paneer Butter Masala,185,74.0,0.4,0.68
+2024-12-10,Tuesday,Rainy,Chicken Biryani,186,59.52,0.32,0.56
+2024-12-11,Wednesday,Cloudy,Rajma Chawal,193,77.2,0.4,0.83
+2024-12-12,Thursday,Sunny,Aloo Gobhi,186,59.52,0.32,1.56
+2024-12-13,Friday,Cloudy,Tinda Curry,163,78.24,0.48,40.02
+2024-12-14,Saturday,Cloudy,Chicken Biryani,129,51.6,0.4,0.72
+2024-12-15,Sunday,Cloudy,Paneer Butter Masala,100,48.0,0.48,8.17
+2024-12-16,Monday,Rainy,Paneer Butter Masala,170,102.0,0.6,34.69
+2024-12-17,Tuesday,Rainy,Paneer Butter Masala,190,91.2,0.48000000000000004,15.94
+2024-12-18,Wednesday,Rainy,Aloo Gobhi,200,96.0,0.48,17.52
+2024-12-19,Thursday,Cloudy,Lauki Kofta,177,106.2,0.6,64.2
+2024-12-20,Friday,Cloudy,Chicken Biryani,163,52.16,0.32,0.74
+2024-12-21,Saturday,Sunny,Tinda Curry,146,70.08,0.48,36.48
+2024-12-22,Sunday,Cloudy,Aloo Gobhi,106,63.6,0.6,22.63
+2024-12-23,Monday,Sunny,Chicken Biryani,167,66.8,0.39999999999999997,0.14
+2024-12-24,Tuesday,Rainy,Lauki Kofta,186,111.6,0.6,67.5
+2024-12-25,Wednesday,Rainy,Lauki Kofta,177,70.8,0.39999999999999997,29.31
+2024-12-26,Thursday,Sunny,Paneer Butter Masala,200,80.0,0.4,1.08
+2024-12-27,Friday,Sunny,Tinda Curry,179,85.92,0.48,44.76
+2024-12-28,Saturday,Rainy,Tinda Curry,125,75.0,0.6,46.27
+2024-12-29,Sunday,Cloudy,Lauki Kofta,147,58.8,0.39999999999999997,23.94
+2024-12-30,Monday,Cloudy,Lauki Kofta,166,66.4,0.4,27.66
+2024-12-31,Tuesday,Rainy,Aloo Gobhi,171,68.4,0.4,1.8
+2025-01-01,Wednesday,Sunny,Tinda Curry,171,68.4,0.4,29.2
+2025-01-02,Thursday,Sunny,Paneer Butter Masala,198,95.04,0.48000000000000004,16.87
+2025-01-03,Friday,Cloudy,Tinda Curry,185,74.0,0.4,31.09
+2025-01-04,Saturday,Sunny,Aloo Gobhi,119,47.6,0.4,1.6
+2025-01-05,Sunday,Rainy,Tinda Curry,130,62.4,0.48,32.49
+2025-01-06,Monday,Rainy,Paneer Butter Masala,179,107.4,0.6,36.45
+2025-01-07,Tuesday,Sunny,Aloo Gobhi,189,75.6,0.39999999999999997,1.94
+2025-01-08,Wednesday,Rainy,Rajma Chawal,185,59.2,0.32,0.46
+2025-01-09,Thursday,Cloudy,Aloo Gobhi,197,118.2,0.6,40.96
+2025-01-10,Friday,Cloudy,Tinda Curry,172,68.8,0.39999999999999997,28.53
+2025-01-11,Saturday,Sunny,Rajma Chawal,104,41.6,0.4,0.69
+2025-01-12,Sunday,Sunny,Rajma Chawal,124,49.6,0.4,1.21
+2025-01-13,Monday,Cloudy,Lauki Kofta,173,55.36,0.32,15.1
+2025-01-14,Tuesday,Sunny,Chicken Biryani,180,108.0,0.6,36.76
+2025-01-15,Wednesday,Rainy,Mix Veg,189,113.4,0.6,39.72
+2025-01-16,Thursday,Rainy,Paneer Butter Masala,168,80.64,0.48,14.44
+2025-01-17,Friday,Rainy,Mix Veg,170,102.0,0.6,35.75
+2025-01-18,Saturday,Rainy,Paneer Butter Masala,140,56.0,0.4,0.92
+2025-01-19,Sunday,Cloudy,Lauki Kofta,100,40.0,0.4,16.55
+2025-01-20,Monday,Sunny,Paneer Butter Masala,189,90.72,0.48,15.63
+2025-01-21,Tuesday,Sunny,Tinda Curry,192,76.8,0.39999999999999997,32.31
+2025-01-22,Wednesday,Rainy,Mix Veg,171,82.08,0.48,15.98
+2025-01-23,Thursday,Rainy,Paneer Butter Masala,185,59.2,0.32,0.49
+2025-01-24,Friday,Rainy,Lauki Kofta,179,85.92,0.48,44.02
+2025-01-25,Saturday,Rainy,Lauki Kofta,116,46.4,0.39999999999999997,19.13
+2025-01-26,Sunday,Sunny,Mix Veg,114,45.6,0.4,1.43
+2025-01-27,Monday,Cloudy,Lauki Kofta,194,77.6,0.39999999999999997,31.68
+2025-01-28,Tuesday,Cloudy,Aloo Gobhi,162,97.2,0.6,33.6
+2025-01-29,Wednesday,Sunny,Chicken Biryani,164,65.6,0.39999999999999997,0.16
+2025-01-30,Thursday,Cloudy,Rajma Chawal,194,116.4,0.6,39.56
+2025-01-31,Friday,Rainy,Lauki Kofta,174,83.52,0.48,43.02
+2025-02-01,Saturday,Sunny,Chicken Biryani,133,53.2,0.4,0.52
+2025-02-02,Sunday,Rainy,Rajma Chawal,104,41.6,0.4,0.77
+2025-02-03,Monday,Rainy,Chicken Biryani,189,113.4,0.6,38.36
+2025-02-04,Tuesday,Sunny,Aloo Gobhi,183,87.84,0.48000000000000004,16.4
+2025-02-05,Wednesday,Sunny,Aloo Gobhi,164,65.6,0.39999999999999997,1.62
+2025-02-06,Thursday,Rainy,Tinda Curry,191,114.6,0.6,70.35
+2025-02-07,Friday,Sunny,Rajma Chawal,173,83.04,0.48000000000000004,14.34
+2025-02-08,Saturday,Cloudy,Paneer Butter Masala,109,65.4,0.6000000000000001,22.29
+2025-02-09,Sunday,Sunny,Rajma Chawal,142,85.2,0.6,29.55
+2025-02-10,Monday,Rainy,Rajma Chawal,168,80.64,0.48,14.2
+2025-02-11,Tuesday,Cloudy,Aloo Gobhi,178,71.2,0.4,1.57
+2025-02-12,Wednesday,Sunny,Mix Veg,176,70.4,0.4,2.28
+2025-02-13,Thursday,Rainy,Lauki Kofta,161,77.28,0.48,39.98
+2025-02-14,Friday,Sunny,Lauki Kofta,178,71.2,0.4,29.65
+2025-02-15,Saturday,Sunny,Paneer Butter Masala,123,39.36,0.32,0.96
+2025-02-16,Sunday,Sunny,Lauki Kofta,101,48.48,0.48,25.46
+2025-02-17,Monday,Cloudy,Lauki Kofta,164,65.6,0.39999999999999997,27.08
+2025-02-18,Tuesday,Rainy,Mix Veg,188,112.8,0.6,39.64
+2025-02-19,Wednesday,Rainy,Paneer Butter Masala,160,64.0,0.4,0.13
+2025-02-20,Thursday,Rainy,Mix Veg,200,64.0,0.32,2.08
+2025-02-21,Friday,Cloudy,Rajma Chawal,179,107.4,0.6,36.87
+2025-02-22,Saturday,Sunny,Aloo Gobhi,109,65.4,0.6000000000000001,23.06
+2025-02-23,Sunday,Cloudy,Lauki Kofta,110,44.0,0.4,18.73
+2025-02-24,Monday,Sunny,Aloo Gobhi,197,63.04,0.32,2.05
+2025-02-25,Tuesday,Rainy,Paneer Butter Masala,188,75.2,0.4,1.15
+2025-02-26,Wednesday,Cloudy,Chicken Biryani,164,78.72,0.48,14.08
+2025-02-27,Thursday,Cloudy,Mix Veg,172,55.04,0.32,2.37
+2025-02-28,Friday,Sunny,Mix Veg,192,115.2,0.6,40.45
+2025-03-01,Saturday,Cloudy,Tinda Curry,132,52.8,0.39999999999999997,22.4
+2025-03-02,Sunday,Cloudy,Paneer Butter Masala,101,32.32,0.32,0.24
+2025-03-03,Monday,Sunny,Mix Veg,176,105.6,0.6,36.64
+2025-03-04,Tuesday,Cloudy,Aloo Gobhi,199,119.4,0.6,41.84
+2025-03-05,Wednesday,Rainy,Tinda Curry,200,80.0,0.4,33.21
+2025-03-06,Thursday,Rainy,Tinda Curry,184,73.6,0.39999999999999997,31.01
+2025-03-07,Friday,Rainy,Lauki Kofta,181,72.4,0.4,30.15
+2025-03-08,Saturday,Sunny,Chicken Biryani,115,36.8,0.31999999999999995,0.98
+2025-03-09,Sunday,Rainy,Mix Veg,111,44.4,0.39999999999999997,1.65
+2025-03-10,Monday,Cloudy,Tinda Curry,166,79.68,0.48000000000000004,40.79
+2025-03-11,Tuesday,Sunny,Chicken Biryani,184,58.88,0.32,0.62
+2025-03-12,Wednesday,Sunny,Tinda Curry,178,56.96,0.32,15.9
+2025-03-13,Thursday,Cloudy,Tinda Curry,165,66.0,0.4,28.13
+2025-03-14,Friday,Rainy,Lauki Kofta,197,78.8,0.39999999999999997,32.94
+2025-03-15,Saturday,Cloudy,Paneer Butter Masala,132,79.2,0.6,27.19
+2025-03-16,Sunday,Sunny,Tinda Curry,111,53.28,0.48000000000000004,28.14
+2025-03-17,Monday,Rainy,Paneer Butter Masala,167,66.8,0.39999999999999997,0.84
+2025-03-18,Tuesday,Cloudy,Rajma Chawal,166,66.4,0.4,0.38
+2025-03-19,Wednesday,Sunny,Chicken Biryani,182,109.2,0.6,36.85
+2025-03-20,Thursday,Sunny,Mix Veg,162,64.8,0.39999999999999997,1.63
+2025-03-21,Friday,Rainy,Aloo Gobhi,182,72.8,0.39999999999999997,1.21
+2025-03-22,Saturday,Cloudy,Aloo Gobhi,143,57.2,0.4,1.35
+2025-03-23,Sunday,Rainy,Aloo Gobhi,123,49.2,0.4,1.65
+2025-03-24,Monday,Rainy,Lauki Kofta,200,120.0,0.6,73.31
+2025-03-25,Tuesday,Rainy,Mix Veg,192,76.8,0.39999999999999997,1.6
+2025-03-26,Wednesday,Sunny,Chicken Biryani,162,77.76,0.48000000000000004,14.0
+2025-03-27,Thursday,Cloudy,Aloo Gobhi,200,64.0,0.32,1.63
+2025-03-28,Friday,Rainy,Paneer Butter Masala,162,64.8,0.39999999999999997,0.41
+2025-03-29,Saturday,Cloudy,Lauki Kofta,119,71.4,0.6000000000000001,43.43
+2025-03-30,Sunday,Rainy,Paneer Butter Masala,119,71.4,0.6000000000000001,24.61
+2025-03-31,Monday,Cloudy,Chicken Biryani,160,64.0,0.4,0.19
+2025-04-01,Tuesday,Sunny,Mix Veg,167,53.44,0.32,2.23
+2025-04-02,Wednesday,Cloudy,Mix Veg,168,53.76,0.32,1.43
+2025-04-03,Thursday,Rainy,Chicken Biryani,194,93.12,0.48000000000000004,15.85
+2025-04-04,Friday,Rainy,Lauki Kofta,177,106.2,0.6,65.11
+2025-04-05,Saturday,Rainy,Paneer Butter Masala,111,66.6,0.6,22.59
+2025-04-06,Sunday,Cloudy,Paneer Butter Masala,100,48.0,0.48,8.16
+2025-04-07,Monday,Rainy,Chicken Biryani,177,56.64,0.32,0.82
+2025-04-08,Tuesday,Rainy,Aloo Gobhi,162,64.8,0.39999999999999997,1.18
+2025-04-09,Wednesday,Sunny,Chicken Biryani,185,88.8,0.48,15.75
+2025-04-10,Thursday,Sunny,Tinda Curry,160,76.8,0.48,39.67
+2025-04-11,Friday,Rainy,Mix Veg,188,75.2,0.4,1.9
+2025-04-12,Saturday,Rainy,Lauki Kofta,128,40.96,0.32,10.57
+2025-04-13,Sunday,Cloudy,Aloo Gobhi,109,65.4,0.6000000000000001,23.12
+2025-04-14,Monday,Sunny,Rajma Chawal,195,93.6,0.48,16.01
+2025-04-15,Tuesday,Cloudy,Lauki Kofta,173,69.2,0.4,28.82
+2025-04-16,Wednesday,Rainy,Tinda Curry,170,81.6,0.48,41.94
+2025-04-17,Thursday,Sunny,Paneer Butter Masala,188,75.2,0.4,0.19
+2025-04-18,Friday,Sunny,Chicken Biryani,192,76.8,0.39999999999999997,0.57
+2025-04-19,Saturday,Sunny,Lauki Kofta,106,33.92,0.32,9.0
+2025-04-20,Sunday,Rainy,Mix Veg,130,52.0,0.4,1.14
+2025-04-21,Monday,Rainy,Tinda Curry,187,112.2,0.6,69.04
+2025-04-22,Tuesday,Rainy,Tinda Curry,198,95.04,0.48000000000000004,48.83
+2025-04-23,Wednesday,Cloudy,Lauki Kofta,176,84.48,0.48000000000000004,43.11
+2025-04-24,Thursday,Sunny,Chicken Biryani,178,71.2,0.4,0.49
+2025-04-25,Friday,Sunny,Mix Veg,189,60.48,0.32,2.43
+2025-04-26,Saturday,Rainy,Tinda Curry,137,82.2,0.6,50.49
+2025-04-27,Sunday,Sunny,Tinda Curry,123,49.2,0.4,20.72
+2025-04-28,Monday,Sunny,Lauki Kofta,191,91.68,0.48000000000000004,46.37
+2025-04-29,Tuesday,Rainy,Rajma Chawal,193,77.2,0.4,0.65
+2025-04-30,Wednesday,Rainy,Tinda Curry,188,60.16,0.32,16.03
+2025-05-01,Thursday,Rainy,Rajma Chawal,191,61.12,0.32,1.35
+2025-05-02,Friday,Sunny,Tinda Curry,172,68.8,0.39999999999999997,29.13
+2025-05-03,Saturday,Cloudy,Aloo Gobhi,109,65.4,0.6000000000000001,22.94
+2025-05-04,Sunday,Cloudy,Chicken Biryani,130,78.0,0.6,26.95
+2025-05-05,Monday,Rainy,Rajma Chawal,160,76.8,0.48,13.87
+2025-05-06,Tuesday,Cloudy,Rajma Chawal,199,79.6,0.39999999999999997,0.9
+2025-05-07,Wednesday,Sunny,Aloo Gobhi,160,64.0,0.4,1.96
+2025-05-08,Thursday,Sunny,Chicken Biryani,164,52.48,0.32,0.35
+2025-05-09,Friday,Sunny,Lauki Kofta,164,98.4,0.6000000000000001,60.37
+2025-05-10,Saturday,Cloudy,Lauki Kofta,138,82.8,0.6,50.39
+2025-05-11,Sunday,Rainy,Tinda Curry,111,53.28,0.48000000000000004,27.51
+2025-05-12,Monday,Cloudy,Rajma Chawal,172,55.04,0.32,0.43
+2025-05-13,Tuesday,Sunny,Paneer Butter Masala,168,100.8,0.6,34.29
+2025-05-14,Wednesday,Sunny,Rajma Chawal,170,68.0,0.4,1.22
+2025-05-15,Thursday,Rainy,Aloo Gobhi,187,74.8,0.39999999999999997,1.25
+2025-05-16,Friday,Sunny,Rajma Chawal,194,77.6,0.39999999999999997,0.55
+2025-05-17,Saturday,Rainy,Tinda Curry,138,66.24,0.48,34.61
+2025-05-18,Sunday,Cloudy,Chicken Biryani,135,64.8,0.48,11.8
+2025-05-19,Monday,Cloudy,Lauki Kofta,191,61.12,0.32,16.2
+2025-05-20,Tuesday,Rainy,Chicken Biryani,182,72.8,0.39999999999999997,0.1
+2025-05-21,Wednesday,Sunny,Chicken Biryani,196,94.08,0.48,16.22
+2025-05-22,Thursday,Rainy,Mix Veg,194,93.12,0.48000000000000004,17.32
+2025-05-23,Friday,Sunny,Tinda Curry,198,118.8,0.6,72.93
+2025-05-24,Saturday,Cloudy,Lauki Kofta,130,78.0,0.6,47.96
+2025-05-25,Sunday,Sunny,Mix Veg,145,46.4,0.32,1.23
+2025-05-26,Monday,Cloudy,Mix Veg,181,108.6,0.6,38.6
+2025-05-27,Tuesday,Cloudy,Tinda Curry,199,79.6,0.39999999999999997,33.1
+2025-05-28,Wednesday,Sunny,Tinda Curry,184,73.6,0.39999999999999997,30.9
+2025-05-29,Thursday,Sunny,Tinda Curry,193,61.76,0.32,16.69
+2025-05-30,Friday,Sunny,Chicken Biryani,182,87.36,0.48,15.17
+2025-05-31,Saturday,Rainy,Paneer Butter Masala,114,68.4,0.6000000000000001,23.14
+2025-06-01,Sunday,Cloudy,Aloo Gobhi,144,57.6,0.4,1.14
+2025-06-02,Monday,Cloudy,Aloo Gobhi,163,52.16,0.32,1.56
+2025-06-03,Tuesday,Rainy,Tinda Curry,189,90.72,0.48,47.15
+2025-06-04,Wednesday,Rainy,Aloo Gobhi,160,76.8,0.48,14.3
+2025-06-05,Thursday,Sunny,Mix Veg,199,95.52,0.48,18.3
+2025-06-06,Friday,Sunny,Paneer Butter Masala,197,94.56,0.48000000000000004,16.56
+2025-06-07,Saturday,Rainy,Aloo Gobhi,131,52.4,0.39999999999999997,1.72
+2025-06-08,Sunday,Cloudy,Paneer Butter Masala,134,64.32,0.4799999999999999,11.72
+2025-06-09,Monday,Cloudy,Paneer Butter Masala,163,78.24,0.48,13.64
+2025-06-10,Tuesday,Sunny,Aloo Gobhi,172,103.2,0.6,35.62
+2025-06-11,Wednesday,Sunny,Chicken Biryani,173,69.2,0.4,0.56
+2025-06-12,Thursday,Cloudy,Tinda Curry,174,55.68,0.32,15.43
+2025-06-13,Friday,Sunny,Chicken Biryani,195,78.0,0.4,0.24
+2025-06-14,Saturday,Sunny,Chicken Biryani,124,59.52,0.48000000000000004,10.46
+2025-06-15,Sunday,Sunny,Chicken Biryani,136,54.4,0.39999999999999997,0.6
+2025-06-16,Monday,Sunny,Mix Veg,187,112.2,0.6,39.83
+2025-06-17,Tuesday,Rainy,Tinda Curry,161,51.52,0.32,13.72
+2025-06-18,Wednesday,Cloudy,Aloo Gobhi,200,120.0,0.6,41.85
+2025-06-19,Thursday,Sunny,Tinda Curry,168,67.2,0.4,28.29
+2025-06-20,Friday,Cloudy,Aloo Gobhi,187,59.84,0.32,1.28
+2025-06-21,Saturday,Sunny,Mix Veg,114,36.48,0.31999999999999995,1.07
+2025-06-22,Sunday,Sunny,Lauki Kofta,137,82.2,0.6,49.85
+2025-06-23,Monday,Sunny,Aloo Gobhi,180,57.6,0.32,1.75
+2025-06-24,Tuesday,Sunny,Chicken Biryani,181,108.6,0.6,36.64
+2025-06-25,Wednesday,Cloudy,Aloo Gobhi,188,112.8,0.6,39.19
+2025-06-26,Thursday,Rainy,Chicken Biryani,195,78.0,0.4,0.13
+2025-06-27,Friday,Cloudy,Mix Veg,171,82.08,0.48,15.53
+2025-06-28,Saturday,Cloudy,Mix Veg,102,40.8,0.39999999999999997,1.29
+2025-06-29,Sunday,Rainy,Lauki Kofta,147,70.56,0.48000000000000004,35.71
+2025-06-30,Monday,Rainy,Mix Veg,189,75.6,0.39999999999999997,2.14
+2025-07-01,Tuesday,Cloudy,Chicken Biryani,169,101.4,0.6000000000000001,34.1
+2025-07-02,Wednesday,Cloudy,Aloo Gobhi,191,91.68,0.48000000000000004,17.03
+2025-07-03,Thursday,Cloudy,Chicken Biryani,181,108.6,0.6,37.15
+2025-07-04,Friday,Rainy,Rajma Chawal,193,77.2,0.4,1.08
+2025-07-05,Saturday,Sunny,Rajma Chawal,101,60.6,0.6,21.4
+2025-07-06,Sunday,Sunny,Lauki Kofta,149,59.6,0.4,25.1
+2025-07-07,Monday,Rainy,Mix Veg,196,117.6,0.6,41.16
+2025-07-08,Tuesday,Rainy,Chicken Biryani,181,72.4,0.4,0.34
+2025-07-09,Wednesday,Sunny,Aloo Gobhi,184,73.6,0.39999999999999997,1.26
+2025-07-10,Thursday,Cloudy,Paneer Butter Masala,170,81.6,0.48,14.46
+2025-07-11,Friday,Cloudy,Chicken Biryani,192,76.8,0.39999999999999997,0.37
+2025-07-12,Saturday,Rainy,Tinda Curry,105,63.0,0.6,38.45
+2025-07-13,Sunday,Cloudy,Aloo Gobhi,107,64.2,0.6,23.04
+2025-07-14,Monday,Rainy,Chicken Biryani,161,77.28,0.48,13.14
+2025-07-15,Tuesday,Rainy,Lauki Kofta,164,98.4,0.6000000000000001,59.91
+2025-07-16,Wednesday,Sunny,Lauki Kofta,162,77.76,0.48000000000000004,39.41
+2025-07-17,Thursday,Cloudy,Mix Veg,200,64.0,0.32,1.92
+2025-07-18,Friday,Cloudy,Aloo Gobhi,175,84.0,0.48,15.69
+2025-07-19,Saturday,Rainy,Aloo Gobhi,149,59.6,0.4,1.79
+2025-07-20,Sunday,Sunny,Aloo Gobhi,120,72.0,0.6,25.65
+2025-07-21,Monday,Rainy,Rajma Chawal,181,72.4,0.4,1.02
+2025-07-22,Tuesday,Cloudy,Aloo Gobhi,185,74.0,0.4,1.36
+2025-07-23,Wednesday,Rainy,Paneer Butter Masala,170,54.4,0.32,1.02
+2025-07-24,Thursday,Rainy,Aloo Gobhi,173,55.36,0.32,1.5
+2025-07-25,Friday,Cloudy,Aloo Gobhi,161,64.4,0.4,1.48
+2025-07-26,Saturday,Cloudy,Mix Veg,131,52.4,0.39999999999999997,1.8
+2025-07-27,Sunday,Cloudy,Tinda Curry,123,73.8,0.6,45.26
+2025-07-28,Monday,Sunny,Lauki Kofta,182,87.36,0.48,44.52
+2025-07-29,Tuesday,Sunny,Paneer Butter Masala,171,68.4,0.4,0.31
+2025-07-30,Wednesday,Rainy,Tinda Curry,177,70.8,0.39999999999999997,30.15
+2025-07-31,Thursday,Rainy,Mix Veg,181,57.92,0.32,1.96
+2025-08-01,Friday,Rainy,Aloo Gobhi,196,117.6,0.6,40.6
+2025-08-02,Saturday,Sunny,Chicken Biryani,141,56.4,0.39999999999999997,0.94
+2025-08-03,Sunday,Sunny,Rajma Chawal,140,56.0,0.4,0.79
+2025-08-04,Monday,Rainy,Mix Veg,188,75.2,0.4,2.32
+2025-08-05,Tuesday,Rainy,Paneer Butter Masala,174,55.68,0.32,0.17
+2025-08-06,Wednesday,Sunny,Paneer Butter Masala,191,91.68,0.48000000000000004,16.33
+2025-08-07,Thursday,Rainy,Aloo Gobhi,174,104.4,0.6,36.66
+2025-08-08,Friday,Cloudy,Lauki Kofta,199,79.6,0.39999999999999997,32.61
+2025-08-09,Saturday,Rainy,Tinda Curry,114,36.48,0.31999999999999995,10.51
+2025-08-10,Sunday,Sunny,Lauki Kofta,126,60.48,0.48,30.96
+2025-08-11,Monday,Sunny,Aloo Gobhi,179,85.92,0.48,15.45
+2025-08-12,Tuesday,Rainy,Lauki Kofta,188,75.2,0.4,31.5
+2025-08-13,Wednesday,Sunny,Mix Veg,166,66.4,0.4,1.45
+2025-08-14,Thursday,Rainy,Paneer Butter Masala,199,63.68,0.32,0.33
+2025-08-15,Friday,Sunny,Paneer Butter Masala,183,73.2,0.4,0.17
+2025-08-16,Saturday,Rainy,Lauki Kofta,104,41.6,0.4,17.53
+2025-08-17,Sunday,Cloudy,Rajma Chawal,147,58.8,0.39999999999999997,0.4
+2025-08-18,Monday,Sunny,Rajma Chawal,189,113.4,0.6,38.39
+2025-08-19,Tuesday,Sunny,Chicken Biryani,160,96.0,0.6,32.52
+2025-08-20,Wednesday,Cloudy,Tinda Curry,174,83.52,0.48,43.1
+2025-08-21,Thursday,Cloudy,Mix Veg,171,102.6,0.6,36.49
+2025-08-22,Friday,Cloudy,Aloo Gobhi,178,71.2,0.4,1.91
+2025-08-23,Saturday,Rainy,Paneer Butter Masala,119,47.6,0.4,0.64
+2025-08-24,Sunday,Sunny,Chicken Biryani,135,81.0,0.6,27.14
+2025-08-25,Monday,Cloudy,Tinda Curry,171,68.4,0.4,29.08
+2025-08-26,Tuesday,Cloudy,Paneer Butter Masala,165,52.8,0.32,1.11
+2025-08-27,Wednesday,Cloudy,Lauki Kofta,176,56.32,0.32,14.97
+2025-08-28,Thursday,Sunny,Chicken Biryani,187,74.8,0.39999999999999997,0.62
+2025-08-29,Friday,Sunny,Tinda Curry,166,66.4,0.4,27.55
+2025-08-30,Saturday,Sunny,Rajma Chawal,108,64.8,0.6,22.44
+2025-08-31,Sunday,Cloudy,Paneer Butter Masala,125,75.0,0.6,25.43
+2025-09-01,Monday,Rainy,Paneer Butter Masala,192,115.2,0.6,39.04
+2025-09-02,Tuesday,Sunny,Tinda Curry,165,66.0,0.4,27.86
+2025-09-03,Wednesday,Sunny,Aloo Gobhi,165,79.2,0.48000000000000004,14.51
+2025-09-04,Thursday,Cloudy,Paneer Butter Masala,172,68.8,0.39999999999999997,0.87
+2025-09-05,Friday,Cloudy,Lauki Kofta,173,69.2,0.4,29.07
+2025-09-06,Saturday,Rainy,Paneer Butter Masala,101,40.4,0.39999999999999997,1.03
+2025-09-07,Sunday,Rainy,Mix Veg,136,54.4,0.39999999999999997,2.06
+2025-09-08,Monday,Sunny,Mix Veg,182,109.2,0.6,38.23
+2025-09-09,Tuesday,Sunny,Aloo Gobhi,180,86.4,0.48000000000000004,15.66
+2025-09-10,Wednesday,Sunny,Paneer Butter Masala,189,90.72,0.48,16.16
+2025-09-11,Thursday,Rainy,Tinda Curry,180,108.0,0.6,66.35
+2025-09-12,Friday,Rainy,Lauki Kofta,179,107.4,0.6,65.68
+2025-09-13,Saturday,Cloudy,Chicken Biryani,116,69.6,0.6,23.87
+2025-09-14,Sunday,Sunny,Paneer Butter Masala,115,69.0,0.6,23.83
+2025-09-15,Monday,Sunny,Mix Veg,183,109.8,0.6,38.97
+2025-09-16,Tuesday,Sunny,Mix Veg,176,70.4,0.4,1.68
+2025-09-17,Wednesday,Rainy,Tinda Curry,193,77.2,0.4,32.14
+2025-09-18,Thursday,Cloudy,Aloo Gobhi,183,73.2,0.4,1.59
+2025-09-19,Friday,Rainy,Aloo Gobhi,176,70.4,0.4,1.73
+2025-09-20,Saturday,Rainy,Rajma Chawal,111,53.28,0.48000000000000004,9.83
+2025-09-21,Sunday,Sunny,Lauki Kofta,149,71.52,0.48,36.18
+2025-09-22,Monday,Rainy,Lauki Kofta,172,103.2,0.6,63.1
+2025-09-23,Tuesday,Sunny,Rajma Chawal,198,118.8,0.6,40.64
+2025-09-24,Wednesday,Rainy,Paneer Butter Masala,179,107.4,0.6,36.63
+2025-09-25,Thursday,Rainy,Lauki Kofta,167,53.44,0.32,13.94
+2025-09-26,Friday,Cloudy,Aloo Gobhi,189,90.72,0.48,17.06
+2025-09-27,Saturday,Sunny,Paneer Butter Masala,144,46.08,0.32,0.9
+2025-09-28,Sunday,Rainy,Rajma Chawal,108,64.8,0.6,22.07
+2025-09-29,Monday,Cloudy,Chicken Biryani,197,63.04,0.32,0.85
+2025-09-30,Tuesday,Rainy,Aloo Gobhi,180,57.6,0.32,1.75
+2025-10-01,Wednesday,Cloudy,Mix Veg,186,111.6,0.6,39.34
+2025-10-02,Thursday,Rainy,Aloo Gobhi,196,78.4,0.4,1.58
+2025-10-03,Friday,Cloudy,Chicken Biryani,186,111.6,0.6,37.38
+2025-10-04,Saturday,Cloudy,Aloo Gobhi,136,65.28,0.48,12.69
+2025-10-05,Sunday,Sunny,Aloo Gobhi,124,39.68,0.32,1.08
+2025-10-06,Monday,Sunny,Mix Veg,179,57.28,0.32,1.56
+2025-10-07,Tuesday,Rainy,Rajma Chawal,197,118.2,0.6,40.56
+2025-10-08,Wednesday,Sunny,Chicken Biryani,165,79.2,0.48000000000000004,13.76
+2025-10-09,Thursday,Sunny,Aloo Gobhi,165,99.0,0.6,34.04
+2025-10-10,Friday,Cloudy,Paneer Butter Masala,165,66.0,0.4,1.08
+2025-10-11,Saturday,Sunny,Mix Veg,115,46.0,0.4,1.11
+2025-10-12,Sunday,Cloudy,Tinda Curry,131,41.92,0.32,11.28
+2025-10-13,Monday,Sunny,Rajma Chawal,173,83.04,0.48000000000000004,14.21
+2025-10-14,Tuesday,Cloudy,Mix Veg,162,64.8,0.39999999999999997,1.33
+2025-10-15,Wednesday,Rainy,Aloo Gobhi,165,66.0,0.4,1.77
+2025-10-16,Thursday,Cloudy,Paneer Butter Masala,197,94.56,0.48000000000000004,15.98
+2025-10-17,Friday,Sunny,Chicken Biryani,194,93.12,0.48000000000000004,16.2
+2025-10-18,Saturday,Sunny,Aloo Gobhi,147,88.2,0.6,30.75
+2025-10-19,Sunday,Rainy,Tinda Curry,123,49.2,0.4,21.27
+2025-10-20,Monday,Sunny,Lauki Kofta,181,108.6,0.6,65.92
+2025-10-21,Tuesday,Rainy,Rajma Chawal,173,83.04,0.48000000000000004,14.87
+2025-10-22,Wednesday,Rainy,Rajma Chawal,194,77.6,0.39999999999999997,1.11
+2025-10-23,Thursday,Rainy,Chicken Biryani,189,75.6,0.39999999999999997,0.09
+2025-10-24,Friday,Sunny,Tinda Curry,194,77.6,0.39999999999999997,32.33
+2025-10-25,Saturday,Cloudy,Chicken Biryani,122,48.8,0.39999999999999997,0.13
+2025-10-26,Sunday,Sunny,Paneer Butter Masala,135,54.0,0.4,0.86
+2025-10-27,Monday,Rainy,Tinda Curry,165,66.0,0.4,27.4
+2025-10-28,Tuesday,Rainy,Mix Veg,162,64.8,0.39999999999999997,1.93
+2025-10-29,Wednesday,Rainy,Tinda Curry,186,59.52,0.32,16.13
+2025-10-30,Thursday,Rainy,Paneer Butter Masala,174,69.6,0.39999999999999997,0.15
+2025-10-31,Friday,Cloudy,Tinda Curry,171,68.4,0.4,28.75
+2025-11-01,Saturday,Cloudy,Lauki Kofta,118,70.8,0.6,42.85
+2025-11-02,Sunday,Sunny,Aloo Gobhi,143,68.64,0.48,12.92
+2025-11-03,Monday,Cloudy,Paneer Butter Masala,170,54.4,0.32,0.37
+2025-11-04,Tuesday,Cloudy,Mix Veg,162,77.76,0.48000000000000004,14.44
+2025-11-05,Wednesday,Rainy,Aloo Gobhi,195,117.0,0.6,40.55
+2025-11-06,Thursday,Rainy,Aloo Gobhi,197,63.04,0.32,1.86
+2025-11-07,Friday,Cloudy,Rajma Chawal,169,67.6,0.39999999999999997,0.99
+2025-11-08,Saturday,Sunny,Rajma Chawal,147,47.04,0.32,0.8
+2025-11-09,Sunday,Cloudy,Paneer Butter Masala,116,37.12,0.31999999999999995,0.14
+2025-11-10,Monday,Sunny,Chicken Biryani,178,71.2,0.4,0.65
+2025-11-11,Tuesday,Cloudy,Tinda Curry,181,72.4,0.4,30.32
+2025-11-12,Wednesday,Cloudy,Chicken Biryani,199,95.52,0.48,16.63
+2025-11-13,Thursday,Rainy,Rajma Chawal,182,58.24,0.32,1.35
+2025-11-14,Friday,Sunny,Rajma Chawal,176,84.48,0.48000000000000004,14.66
+2025-11-15,Saturday,Rainy,Lauki Kofta,125,50.0,0.4,20.54
+2025-11-16,Sunday,Rainy,Aloo Gobhi,145,58.0,0.4,1.66
+2025-11-17,Monday,Sunny,Lauki Kofta,173,103.8,0.6,62.86
+2025-11-18,Tuesday,Cloudy,Rajma Chawal,196,117.6,0.6,40.53
+2025-11-19,Wednesday,Rainy,Aloo Gobhi,161,96.6,0.6,34.04
+2025-11-20,Thursday,Rainy,Tinda Curry,197,78.8,0.39999999999999997,32.64
+2025-11-21,Friday,Cloudy,Lauki Kofta,187,59.84,0.32,16.18
+2025-11-22,Saturday,Cloudy,Aloo Gobhi,113,36.16,0.31999999999999995,1.27
+2025-11-23,Sunday,Cloudy,Rajma Chawal,150,72.0,0.48,13.16
+2025-11-24,Monday,Sunny,Mix Veg,175,56.0,0.32,2.05
+2025-11-25,Tuesday,Rainy,Tinda Curry,176,70.4,0.4,29.4
+2025-11-26,Wednesday,Cloudy,Mix Veg,185,88.8,0.48,16.45
+2025-11-27,Thursday,Sunny,Mix Veg,197,78.8,0.39999999999999997,2.21
+2025-11-28,Friday,Sunny,Paneer Butter Masala,178,71.2,0.4,0.18
+2025-11-29,Saturday,Cloudy,Rajma Chawal,134,42.88,0.32,0.66
+2025-11-30,Sunday,Cloudy,Aloo Gobhi,141,84.6,0.6,29.52
+2025-12-01,Monday,Sunny,Paneer Butter Masala,175,70.0,0.4,1.08
+2025-12-02,Tuesday,Rainy,Aloo Gobhi,199,79.6,0.39999999999999997,1.72
+2025-12-03,Wednesday,Rainy,Paneer Butter Masala,192,92.16,0.48,16.15
+2025-12-04,Thursday,Cloudy,Mix Veg,174,69.6,0.39999999999999997,2.26
+2025-12-05,Friday,Rainy,Mix Veg,161,64.4,0.4,1.84
+2025-12-06,Saturday,Sunny,Lauki Kofta,119,57.12,0.48,29.79
+2025-12-07,Sunday,Cloudy,Tinda Curry,133,53.2,0.4,22.83
+2025-12-08,Monday,Cloudy,Aloo Gobhi,176,56.32,0.32,1.52
+2025-12-09,Tuesday,Sunny,Chicken Biryani,176,105.6,0.6,35.97
+2025-12-10,Wednesday,Rainy,Rajma Chawal,173,103.8,0.6,35.21
+2025-12-11,Thursday,Rainy,Mix Veg,190,76.0,0.4,1.58
+2025-12-12,Friday,Cloudy,Chicken Biryani,168,67.2,0.4,0.19
+2025-12-13,Saturday,Rainy,Paneer Butter Masala,104,41.6,0.4,0.16
+2025-12-14,Sunday,Rainy,Rajma Chawal,148,59.2,0.4,1.03
+2025-12-15,Monday,Sunny,Paneer Butter Masala,198,79.2,0.4,0.82
+2025-12-16,Tuesday,Rainy,Aloo Gobhi,199,95.52,0.48,17.25
+2025-12-17,Wednesday,Cloudy,Lauki Kofta,165,79.2,0.48000000000000004,40.33
+2025-12-18,Thursday,Sunny,Rajma Chawal,166,53.12,0.32,0.86
+2025-12-19,Friday,Rainy,Paneer Butter Masala,169,54.08,0.32,0.42
+2025-12-20,Saturday,Rainy,Rajma Chawal,136,54.4,0.39999999999999997,0.75
+2025-12-21,Sunday,Rainy,Paneer Butter Masala,100,32.0,0.32,0.09
+2025-12-22,Monday,Rainy,Mix Veg,169,101.4,0.6000000000000001,35.55
+2025-12-23,Tuesday,Cloudy,Chicken Biryani,161,64.4,0.4,1.06
+2025-12-24,Wednesday,Sunny,Tinda Curry,182,87.36,0.48,45.35
+2025-12-25,Thursday,Cloudy,Tinda Curry,172,103.2,0.6,63.4
+2025-12-26,Friday,Rainy,Paneer Butter Masala,184,58.88,0.32,0.83
+2025-12-27,Saturday,Rainy,Lauki Kofta,102,32.64,0.32,8.99
+2025-12-28,Sunday,Sunny,Paneer Butter Masala,144,46.08,0.32,0.54
+2025-12-29,Monday,Cloudy,Mix Veg,187,89.76,0.48000000000000004,16.73
+2025-12-30,Tuesday,Sunny,Paneer Butter Masala,183,109.8,0.6,37.31
+2025-12-31,Wednesday,Sunny,Aloo Gobhi,191,76.4,0.4,1.73
+2026-01-01,Thursday,Rainy,Paneer Butter Masala,176,70.4,0.4,1.08
+2026-01-02,Friday,Sunny,Tinda Curry,177,106.2,0.6,65.07
+2026-01-03,Saturday,Rainy,Chicken Biryani,128,51.2,0.4,0.79
+2026-01-04,Sunday,Sunny,Rajma Chawal,106,42.4,0.39999999999999997,0.91
+2026-01-05,Monday,Cloudy,Tinda Curry,160,96.0,0.6,58.83
+2026-01-06,Tuesday,Sunny,Lauki Kofta,171,68.4,0.4,28.36
+2026-01-07,Wednesday,Sunny,Mix Veg,198,79.2,0.4,1.95
+2026-01-08,Thursday,Sunny,Aloo Gobhi,165,66.0,0.4,1.95
+2026-01-09,Friday,Rainy,Tinda Curry,189,90.72,0.48,46.99
+2026-01-10,Saturday,Sunny,Paneer Butter Masala,104,41.6,0.4,0.72
+2026-01-11,Sunday,Sunny,Chicken Biryani,125,50.0,0.4,0.5
+2026-01-12,Monday,Rainy,Aloo Gobhi,168,53.76,0.32,1.94
+2026-01-13,Tuesday,Rainy,Paneer Butter Masala,182,109.2,0.6,36.97
+2026-01-14,Wednesday,Rainy,Tinda Curry,176,56.32,0.32,15.48
+2026-01-15,Thursday,Cloudy,Aloo Gobhi,185,74.0,0.4,2.04
+2026-01-16,Friday,Sunny,Tinda Curry,177,70.8,0.39999999999999997,29.53
+2026-01-17,Saturday,Sunny,Chicken Biryani,123,49.2,0.4,0.35
+2026-01-18,Sunday,Rainy,Mix Veg,132,63.36,0.48,11.62
+2026-01-19,Monday,Rainy,Tinda Curry,196,94.08,0.48,48.51
+2026-01-20,Tuesday,Rainy,Chicken Biryani,183,73.2,0.4,0.51
+2026-01-21,Wednesday,Sunny,Tinda Curry,173,83.04,0.48000000000000004,42.6
+2026-01-22,Thursday,Sunny,Lauki Kofta,190,76.0,0.4,31.23
+2026-01-23,Friday,Sunny,Tinda Curry,169,101.4,0.6000000000000001,61.7
+2026-01-24,Saturday,Cloudy,Chicken Biryani,123,49.2,0.4,0.58
+2026-01-25,Sunday,Sunny,Chicken Biryani,131,52.4,0.39999999999999997,0.49
+2026-01-26,Monday,Rainy,Tinda Curry,185,74.0,0.4,30.66
+2026-01-27,Tuesday,Rainy,Tinda Curry,199,79.6,0.39999999999999997,33.48
+2026-01-28,Wednesday,Rainy,Rajma Chawal,188,60.16,0.32,0.58
+2026-01-29,Thursday,Rainy,Chicken Biryani,186,59.52,0.32,0.24
+2026-01-30,Friday,Rainy,Paneer Butter Masala,160,64.0,0.4,0.32
+2026-01-31,Saturday,Sunny,Aloo Gobhi,105,42.0,0.4,1.39
+2026-02-01,Sunday,Rainy,Tinda Curry,117,56.16,0.48,28.97
+2026-02-02,Monday,Cloudy,Paneer Butter Masala,199,119.4,0.6,40.59
+2026-02-03,Tuesday,Cloudy,Aloo Gobhi,166,53.12,0.32,1.18
+2026-02-04,Wednesday,Sunny,Lauki Kofta,183,109.8,0.6,66.54
+2026-02-05,Thursday,Cloudy,Lauki Kofta,162,64.8,0.39999999999999997,26.43
+2026-02-06,Friday,Sunny,Chicken Biryani,196,78.4,0.4,0.32
+2026-02-07,Saturday,Cloudy,Chicken Biryani,102,40.8,0.39999999999999997,0.9
+2026-02-08,Sunday,Sunny,Lauki Kofta,130,52.0,0.4,21.92
