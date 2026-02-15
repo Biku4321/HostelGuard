@@ -11,7 +11,7 @@ router.post('/add', async (req, res) => {
         // Step A: Ask Python AI for analysis
         let aiAnalysis = { score: 0, category: 'General', is_urgent: false };
         try {
-            const pyRes = await axios.post('http://localhost:8000/analyze-sentiment', { text: description });
+            const pyRes = await axios.post('https://hostelguard.onrender.com', { text: description });
             aiAnalysis = pyRes.data;
         } catch (error) {
             console.error("AI Server Offline, skipping NLP");

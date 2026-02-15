@@ -41,7 +41,7 @@ export default function Predictor() {
     try {
       // Python Server (Port 8000) ko direct call
       const res = await axios.post(
-        "http://localhost:8000/predict-waste",
+        "https://hostelguard.onrender.com/predict-waste",
         formData,
       );
       setResult(res.data);
