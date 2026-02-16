@@ -11,7 +11,7 @@ export default function MenuPlanner() {
   const generateMenu = async () => {
     setLoading(true);
     try {
-      const res = await axios.get('http://localhost:5000/api/ai/suggest-menu');
+      const res = await axios.get('https://hostelguard-1.onrender.com/api/ai/suggest-menu');
       setMenu(res.data);
     } catch (err) {
       alert("Failed to generate menu. Check API Key.");

@@ -30,7 +30,7 @@ export default function HealthHeatmap({ refreshTrigger }: Props) {
   useEffect(() => {
     const fetchHealthData = async () => {
       try {
-        const res = await axios.get('http://localhost:5000/api/health');
+        const res = await axios.get('https://hostelguard-1.onrender.com/api/health');
         setLogs(res.data);
         calculateRisk(res.data);
         setLoading(false);

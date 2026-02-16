@@ -17,7 +17,7 @@ export default function SymptomLogger({ onReportSuccess }: { onReportSuccess: ()
     if (!selectedSymptom) return;
     setLoading(true);
     try {
-      await axios.post('http://localhost:5000/api/health/report', {
+      await axios.post('https://hostelguard-1.onrender.com/api/health/report', {
         studentId: "STU-LIVE", // Demo ID
         roomNumber: room,
         symptom: selectedSymptom
