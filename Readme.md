@@ -1,5 +1,6 @@
 # 🛡️ HostelGuard AI: The Future of Smart Campus Living
 
+![Project Banner](https://via.placeholder.com/1000x300/4f46e5/ffffff?text=HostelGuard+AI+-+Sustainability+%7C+Safety+%7C+Smart+Living)
 
 > **A Full-Stack AI Ecosystem optimizing Food Sustainability, Health Safety, and Operational Efficiency for modern campuses.**
 
