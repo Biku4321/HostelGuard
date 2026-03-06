@@ -61,6 +61,36 @@ HostelGuard is a 3-tier AI system that acts as the **Brain (Prediction)**, **Hea
 | **ML Engine** | `8000` | Python, Flask, Scikit-Learn | AI Inference & NLP Processing |
 
 ---
+## 📂 Folder Structure
+
+The project maintains a clean separation of concerns using a monorepo structure:
+
+```text
+hostelguard/
+├── client/                     # Frontend (Next.js)
+│   ├── src/
+│   │   ├── app/                # Next.js App Router (page.tsx, layout.tsx)
+│   │   └── components/         # UI Components (Dashboard, Widgets, Login)
+│   ├── public/                 # Static assets
+│   └── package.json            # Frontend dependencies
+│
+├── server/                     # Backend API (Node.js + Express)
+|   ├── config/                 # Connect MongoDB
+│   ├── models/                 # MongoDB Schemas (MessLog, Complaint)
+│   ├── routes/                 # API Routes (aiRoutes, healthRoutes)
+│   ├── index.js                # Server entry point
+│   └── package.json            # Backend dependencies
+│
+├── ml_engine/                  # AI & NLP Microservice (Python)
+│   ├── data/                   # Generated synthetic datasets (CSV)
+│   ├── models/                 # Trained Random Forest models (.pkl)
+│   ├── generate_better_data.py # Script for logic-based data generation
+│   ├── train_model.py          # Script to train and save the ML model
+│   ├── app.py                  # Flask server for AI inference & NLP
+│   └── requirements.txt        # Python dependencies
+│
+└── README.md                   # Project documentation
+
 
 ## 🛠️ Installation & Setup
 
