@@ -102,7 +102,7 @@ hostelguard/
 
 ### 1. Clone the Repository
 
-git clone [https://github.com/yourusername/hostelguard.git](https://github.com/yourusername/hostelguard.git)
+git clone [https://github.com/Biku4321/hostelguard.git](https://github.com/Biku4321/hostelguard.git)
 cd hostelguard
 
 2. Backend Setup (Node.js)
