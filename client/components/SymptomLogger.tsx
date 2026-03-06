@@ -8,7 +8,7 @@ export default function SymptomLogger({ onReportSuccess }: { onReportSuccess: ()
   const [loading, setLoading] = useState(false);
   const [selectedSymptom, setSelectedSymptom] = useState('');
   
-  // Demo ke liye Room Number hum select karwayenge
+  
   const [room, setRoom] = useState('101'); 
 
   const symptoms = ["Stomach Pain", "Fever", "Vomiting", "Headache", "Diarrhea"];
@@ -18,14 +18,14 @@ export default function SymptomLogger({ onReportSuccess }: { onReportSuccess: ()
     setLoading(true);
     try {
       await axios.post('https://hostelguard-1.onrender.com/api/health/report', {
-        studentId: "STU-LIVE", // Demo ID
+        studentId: "STU-LIVE", 
         roomNumber: room,
         symptom: selectedSymptom
       });
       alert(`🚨 Symptom Reported for Room ${room}!`);
       setSelectedSymptom('');
       
-      // Parent component (Heatmap) ko refresh karne ke liye signal bhejna
+  
       if (onReportSuccess) onReportSuccess();
       
     } catch (err) {
@@ -41,7 +41,6 @@ export default function SymptomLogger({ onReportSuccess }: { onReportSuccess: ()
       </h3>
       
       <div className="space-y-4">
-        {/* Room Selector (For Demo Purpose) */}
         <div>
             <label className="text-xs font-bold text-gray-500 uppercase">Your Room</label>
             <select 
@@ -55,7 +54,6 @@ export default function SymptomLogger({ onReportSuccess }: { onReportSuccess: ()
             </select>
         </div>
 
-        {/* Symptom Buttons */}
         <div>
             <label className="text-xs font-bold text-gray-500 uppercase">Symptom</label>
             <div className="grid grid-cols-2 gap-2 mt-1">

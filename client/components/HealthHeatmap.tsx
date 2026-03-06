@@ -12,7 +12,7 @@ interface HealthLog {
   date: string;
 }
 interface Props {
-  refreshTrigger: number; // Yeh number badlega toh map refresh hoga
+  refreshTrigger: number; 
 }
 
 
@@ -21,7 +21,6 @@ export default function HealthHeatmap({ refreshTrigger }: Props) {
   const [roomRisk, setRoomRisk] = useState<{ [key: string]: number }>({});
   const [loading, setLoading] = useState(true);
 
-  // Hostel Layout (Dummy Rooms for visualization)
   const floors = {
     "Ground Floor": ["101", "102", "103", "104"],
     "First Floor": ["201", "202", "203", "204"]
@@ -43,12 +42,11 @@ export default function HealthHeatmap({ refreshTrigger }: Props) {
     fetchHealthData();
   }, [refreshTrigger]);
 
-  // 🧠 Logic: Count sick students per room (Clustering Logic)
   const calculateRisk = (data: HealthLog[]) => {
     const riskMap: { [key: string]: number } = {};
     
     data.forEach((log) => {
-      // Sirf recent cases count karein (last 7 days - Logic can be added here)
+
       const room = log.roomNumber;
       riskMap[room] = (riskMap[room] || 0) + 1;
     });
@@ -57,9 +55,9 @@ export default function HealthHeatmap({ refreshTrigger }: Props) {
   };
 
   const getRoomColor = (count: number) => {
-    if (count >= 5) return "bg-red-500 text-white animate-pulse"; // OUTBREAK! 🚨
-    if (count >= 2) return "bg-orange-300 text-orange-900"; // Warning ⚠️
-    return "bg-green-100 text-green-700"; // Safe ✅
+    if (count >= 5) return "bg-red-500 text-white animate-pulse"; 
+    if (count >= 2) return "bg-orange-300 text-orange-900"; 
+    return "bg-green-100 text-green-700"; 
   };
 
   if (loading) return <div>Loading Health Data...</div>;
@@ -74,7 +72,6 @@ export default function HealthHeatmap({ refreshTrigger }: Props) {
             <p className="text-sm text-gray-500">Visualizing high-risk zones based on reported symptoms.</p>
         </div>
         
-        {/* Legend */}
         <div className="flex gap-4 text-xs">
             <div className="flex items-center gap-1"><span className="w-3 h-3 bg-green-100 border border-green-500 rounded"></span> Safe</div>
             <div className="flex items-center gap-1"><span className="w-3 h-3 bg-orange-300 rounded"></span> Risk</div>
@@ -83,7 +80,6 @@ export default function HealthHeatmap({ refreshTrigger }: Props) {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        {/* LEFT: The Map */}
         <div className="space-y-6">
             {Object.entries(floors).map(([floorName, rooms]) => (
                 <div key={floorName}>
@@ -103,7 +99,6 @@ export default function HealthHeatmap({ refreshTrigger }: Props) {
             ))}
         </div>
 
-        {/* RIGHT: Recent Alerts */}
         <div className="bg-gray-50 p-4 rounded-lg border">
             <h3 className="font-semibold mb-3 text-gray-700">Recent Reports</h3>
             <div className="space-y-3 h-[250px] overflow-y-auto pr-2">

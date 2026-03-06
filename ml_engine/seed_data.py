@@ -3,11 +3,11 @@ import requests
 import json
 import os
 
-# --- CONFIGURATION ---
-SERVER_URL = "http://localhost:5000/api"
-DATA_DIR = "data"  # Folder jahan CSV rakhi hai
 
-# File Paths
+SERVER_URL = "http://localhost:5000/api"
+DATA_DIR = "data"  
+
+
 MESS_CSV = os.path.join(DATA_DIR, "mess_data.csv")
 HEALTH_CSV = os.path.join(DATA_DIR, "health_data.csv")
 
@@ -16,8 +16,7 @@ def seed_mess_data():
     try:
         df = pd.read_csv(MESS_CSV)
         
-        # 1. Rename Columns to match Mongoose Schema exactly
-        # CSV Header -> Mongoose Field Name
+        
         df = df.rename(columns={
             "Date": "date",
             "Day": "day",
@@ -28,10 +27,10 @@ def seed_mess_data():
             "Wasted_Kg": "wastedQty"
         })
         
-        # Convert to JSON
+        
         data = df.to_dict(orient="records")
         
-        # Send to API
+        
         print(f"🚀 Sending {len(data)} records to Server...")
         response = requests.post(f"{SERVER_URL}/mess/seed", json=data)
         
@@ -48,7 +47,7 @@ def seed_health_data():
     try:
         df = pd.read_csv(HEALTH_CSV)
         
-        # Rename Columns to match Mongoose Schema
+        
         df = df.rename(columns={
             "Date": "date",
             "Student_ID": "studentId",
@@ -56,10 +55,10 @@ def seed_health_data():
             "Symptom": "symptom"
         })
         
-        # Convert to JSON
+        
         data = df.to_dict(orient="records")
         
-        # Send to API
+        
         print(f"🚀 Sending {len(data)} records to Server...")
         response = requests.post(f"{SERVER_URL}/health/seed", json=data)
         

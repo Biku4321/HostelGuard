@@ -7,27 +7,27 @@ const MessLogSchema = new mongoose.Schema({
         default: Date.now
     },
     day: {
-        type: String, // e.g., "Monday"
+        type: String, 
         required: true
     },
     menuItem: {
-        type: String, // e.g., "Paneer Butter Masala"
+        type: String, 
         required: true
     },
     weather: {
-        type: String, // e.g., "Rainy", "Sunny" - affects attendance
+        type: String, 
         required: true
     },
     attendance: {
-        type: Number, // Kitne log aaye
+        type: Number, 
         required: true
     },
     preparedQty: {
-        type: Number, // kg mein
+        type: Number, 
         required: true
     },
     wastedQty: {
-        type: Number, // kg mein
+        type: Number, 
         required: true
     }
 });

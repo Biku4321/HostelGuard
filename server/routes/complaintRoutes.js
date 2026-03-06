@@ -1,14 +1,14 @@
 const express = require('express');
 const router = express.Router();
-const Complaint = require('../models/Complaint'); // Make sure Model exists
+const Complaint = require('../models/Complaint'); 
 const axios = require('axios');
 
-// 1. SAVE COMPLAINT (Student submit karega)
+
 router.post('/add', async (req, res) => {
     try {
         const { studentId, description } = req.body;
 
-        // Step A: Ask Python AI for analysis
+        
         let aiAnalysis = { score: 0, category: 'General', is_urgent: false };
         try {
             const pyRes = await axios.post('https://hostelguard.onrender.com', { text: description });
@@ -17,7 +17,7 @@ router.post('/add', async (req, res) => {
             console.error("AI Server Offline, skipping NLP");
         }
 
-        // Step B: Save to Database with AI Tags
+        
         const newComplaint = new Complaint({
             studentId,
             description,
@@ -34,7 +34,7 @@ router.post('/add', async (req, res) => {
     }
 });
 
-// 2. GET ALL COMPLAINTS (Admin Dashboard ke liye)
+
 router.get('/', async (req, res) => {
     try {
         const complaints = await Complaint.find().sort({ createdAt: -1 }); // Newest first

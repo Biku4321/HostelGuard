@@ -2,15 +2,15 @@ const mongoose = require('mongoose');
 
 const HealthLogSchema = new mongoose.Schema({
     studentId: {
-        type: String, // e.g., "STU101"
+        type: String, 
         required: true
     },
     roomNumber: {
-        type: String, // e.g., "201" (String rakha hai incase "A-201" ho)
+        type: String, 
         required: true
     },
     symptom: {
-        type: String, // e.g., "Stomach Pain", "Fever"
+        type: String, 
         required: true
     },
     date: {

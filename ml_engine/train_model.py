@@ -22,8 +22,7 @@ def train_food_wastage_model():
         df[col] = le.fit_transform(df[col])
         encoders[col] = le
     
-    # --- IMPORTANT: Feature Selection ---
-    # Hum 'Portion_Per_Student' ko bhi training mein use karenge
+    
     X = df[['Day', 'Weather', 'Menu', 'Attendance', 'Prepared_Kg', 'Portion_Per_Student']]
     y = df['Wasted_Kg'] 
 

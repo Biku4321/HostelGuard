@@ -22,7 +22,6 @@ export default function MenuPlanner() {
   return (
     <div className="bg-gradient-to-br from-purple-900 to-indigo-900 p-6 rounded-xl shadow-lg text-white mt-8 relative overflow-hidden">
       
-      {/* Background Effect */}
       <Sparkles className="absolute top-4 right-4 text-purple-400 opacity-20 h-24 w-24" />
 
       <div className="relative z-10">

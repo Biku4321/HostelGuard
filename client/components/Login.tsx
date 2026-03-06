@@ -14,7 +14,6 @@ export default function Login({ onLogin }: Props) {
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
     setLoading(true);
-    // Demo Simulation (Real app mein backend check hoga)
     setTimeout(() => {
       onLogin(role);
       setLoading(false);
@@ -25,7 +24,6 @@ export default function Login({ onLogin }: Props) {
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-900 to-black text-white p-4">
       <div className="w-full max-w-md bg-white/10 backdrop-blur-lg border border-white/20 p-8 rounded-2xl shadow-2xl">
         
-        {/* Logo */}
         <div className="text-center mb-8">
           <div className="bg-indigo-600 w-16 h-16 rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-lg shadow-indigo-500/30">
             <ShieldCheck size={32} className="text-white" />
@@ -34,7 +32,6 @@ export default function Login({ onLogin }: Props) {
           <p className="text-gray-400 text-sm mt-1">Secure Campus Management System</p>
         </div>
 
-        {/* Role Switcher */}
         <div className="bg-black/30 p-1 rounded-lg flex mb-6">
           <button
             onClick={() => setRole('student')}
@@ -54,7 +51,7 @@ export default function Login({ onLogin }: Props) {
           </button>
         </div>
 
-        {/* Form */}
+
         <form onSubmit={handleLogin} className="space-y-4">
           <div>
             <label className="text-xs font-bold text-gray-500 uppercase ml-1">Username</label>

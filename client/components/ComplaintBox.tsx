@@ -9,7 +9,7 @@ export default function ComplaintBox() {
   const [newText, setNewText] = useState('');
   const [loading, setLoading] = useState(false);
 
-  // ✅ FIX: Function Definition ko UPAR rakha (useEffect se pehle)
+ 
   const fetchComplaints = async () => {
     try {
       const res = await axios.get('https://hostelguard-1.onrender.com/api/complaints');
@@ -17,7 +17,7 @@ export default function ComplaintBox() {
     } catch (err) { console.error(err); }
   };
 
-  // ✅ Ab useEffect isse call kar sakta hai bina kisi error ke
+  
   useEffect(() => {
     fetchComplaints();
   }, []);
@@ -26,13 +26,13 @@ export default function ComplaintBox() {
     if (!newText) return;
     setLoading(true);
     try {
-      // Backend ko bhejo
+      
       await axios.post('http://localhost:5000/api/complaints/add', {
         studentId: "STU-DEMO", 
         description: newText
       });
       setNewText('');
-      fetchComplaints(); // Refresh list
+      fetchComplaints(); 
     } catch (err) { alert("Failed to send"); }
     setLoading(false);
   };
@@ -40,7 +40,7 @@ export default function ComplaintBox() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8">
       
-      {/* LEFT: STUDENT FORM */}
+      
       <div className="md:col-span-1 bg-white p-6 rounded-xl shadow-md h-fit">
         <h3 className="font-bold text-gray-800 mb-4 flex items-center gap-2">
             <MessageSquare size={20} className="text-indigo-600"/> Raise Complaint
@@ -61,7 +61,7 @@ export default function ComplaintBox() {
         </button>
       </div>
 
-      {/* RIGHT: LIVE AI FEED (WARDEN VIEW) */}
+      
       <div className="md:col-span-2 bg-white p-6 rounded-xl shadow-md">
         <h3 className="font-bold text-gray-800 mb-4">AI-Filtered Feedback Feed</h3>
         <div className="space-y-4 max-h-[300px] overflow-y-auto pr-2">
@@ -72,7 +72,6 @@ export default function ComplaintBox() {
                     <div>
                         <div className="flex items-center gap-2 mb-1">
                             <span className="text-xs font-bold text-gray-500">{c.studentId}</span>
-                            {/* AI TAGS */}
                             <span className={`text-[10px] uppercase px-2 py-0.5 rounded font-bold 
                                 ${c.category === 'Hygiene Issue' ? 'bg-orange-200 text-orange-800' : 
                                   c.category === 'Health Emergency' ? 'bg-red-200 text-red-900' : 'bg-blue-100 text-blue-800'}`}>
@@ -82,7 +81,6 @@ export default function ComplaintBox() {
                         <p className="text-sm text-gray-800 font-medium">{c.description}</p>
                     </div>
 
-                    {/* Sentiment Icon */}
                     <div className="text-right">
                         {c.sentimentScore < -0.3 ? 
                             <AlertOctagon className="text-red-500" size={24} /> : 

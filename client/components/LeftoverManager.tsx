@@ -4,17 +4,14 @@ import React from 'react';
 import { Recycle, ChefHat, ArrowRight, Leaf } from 'lucide-react';
 
 interface Props {
-  data: any[]; // Mess Data pass karenge
+  data: any[]; 
 }
 
 export default function LeftoverManager({ data }: Props) {
-  // 1. Last Day ka High Wastage dhundo
-  // Hum maan rahe hain ki last entry 'Yesterday' ki hai
   const lastLog = data[data.length - 1]; 
   
-  if (!lastLog || lastLog.wastedQty < 5) return null; // Agar waste kam hai toh suggestion ki zarurat nahi
+  if (!lastLog || lastLog.wastedQty < 5) return null; 
 
-  // 2. AI Logic: Menu -> New Dish
   const getRecycleIdea = (menu: string) => {
     const m = menu.toLowerCase();
     if (m.includes('rice') || m.includes('biryani')) return { dish: "Lemon Rice or Fried Rice", time: "Breakfast" };
@@ -30,7 +27,6 @@ export default function LeftoverManager({ data }: Props) {
   return (
     <div className="bg-gradient-to-r from-green-50 to-emerald-50 p-6 rounded-xl shadow-sm border border-green-200 mt-8 flex items-center justify-between relative overflow-hidden">
       
-      {/* Background Icon for Style */}
       <Leaf className="absolute -right-5 -top-5 text-green-100 h-32 w-32 rotate-12" />
 
       <div className="z-10">

@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const HealthLog = require('../models/HealthLog');
 
-// 1. GET ALL SYMPTOMS (AI Clustering ke liye)
+
 router.get('/', async (req, res) => {
     try {
         const logs = await HealthLog.find().sort({ date: -1 });
@@ -12,7 +12,7 @@ router.get('/', async (req, res) => {
     }
 });
 
-// 2. REPORT SYMPTOM (Student app se report karega)
+
 router.post('/report', async (req, res) => {
     try {
         const newLog = new HealthLog(req.body);
@@ -23,7 +23,7 @@ router.post('/report', async (req, res) => {
     }
 });
 
-// 3. BULK IMPORT (CSV Data load karne ke liye)
+
 router.post('/seed', async (req, res) => {
     try {
         await HealthLog.deleteMany({});

@@ -16,13 +16,12 @@ export default function Predictor() {
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<any>(null);
 
-  // Form State
   const [formData, setFormData] = useState({
     day: "Monday",
     weather: "Sunny",
     menu: "Paneer Butter Masala",
     attendance: 200,
-    prepared: 80, // kg
+    prepared: 80, 
   });
 
   const menuOptions = [
@@ -39,7 +38,6 @@ export default function Predictor() {
     setLoading(true);
     setResult(null);
     try {
-      // Python Server (Port 8000) ko direct call
       const res = await axios.post(
         "https://hostelguard.onrender.com/predict-waste",
         formData,
@@ -69,7 +67,6 @@ export default function Predictor() {
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-        {/* INPUT FORM */}
         <div className="space-y-4">
           <div className="grid grid-cols-2 gap-4">
             <div>
@@ -194,7 +191,6 @@ export default function Predictor() {
           </button>
         </div>
 
-        {/* OUTPUT RESULT */}
         <div className="flex items-center justify-center bg-white rounded-xl border border-gray-100 p-6 relative overflow-hidden">
           {!result ? (
             <div className="text-center text-gray-400">

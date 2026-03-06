@@ -25,25 +25,22 @@ export default function StudentDashboard({ onLogout }: Props) {
             <button onClick={onLogout} className="text-sm text-red-500 hover:underline">Logout</button>
         </header>
 
-        {/* 1. ATTENDANCE (Sabse pehle kyunki ye daily task hai) */}
         <section className="mb-10">
             <h2 className="text-lg font-bold text-gray-700 mb-4">Mark Daily Attendance</h2>
             <AttendanceCam />
         </section>
 
-        {/* 2. HEALTH REPORT */}
         <section className="mb-10">
              <h2 className="text-lg font-bold text-gray-700 mb-4">Feeling Sick? Report Immediately</h2>
              <SymptomLogger onReportSuccess={() => alert("Warden Notified!")} />
         </section>
 
-        {/* 3. COMPLAINTS */}
+
         <section className="mb-10">
              <h2 className="text-lg font-bold text-gray-700 mb-4">Feedback & Complaints</h2>
              <ComplaintBox />
         </section>
         
-        {/* FOOTER */}
         <div className="text-center mt-12 text-gray-400 text-sm">
             <Sparkles size={16} className="inline mr-1" />
             AI-Powered Student Safety System

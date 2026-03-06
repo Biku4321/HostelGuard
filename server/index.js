@@ -3,7 +3,7 @@ const express = require('express');
 const cors = require('cors');
 const connectDB = require('./config/db');
 
-// Route Files Import karein
+
 const messRoutes = require('./routes/messRoutes');
 const healthRoutes = require('./routes/healthRoutes');
 
@@ -15,11 +15,11 @@ connectDB();
 
 const app = express();
 
-// Middleware (Limit badhaya taaki bulk data error na de)
+
 app.use(express.json({ limit: '50mb' })); 
 app.use(cors());
 
-// ROUTES MOUNTING
+// ROUTES
 app.use('/api/mess', messRoutes);       // URL: http://localhost:5000/api/mess
 app.use('/api/health', healthRoutes);   // URL: http://localhost:5000/api/health
 app.use('/api/complaints', complaintRoutes);

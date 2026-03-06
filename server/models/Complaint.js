@@ -10,15 +10,15 @@ const ComplaintSchema = new mongoose.Schema({
         required: true
     },
     description: {
-        type: String, // User ka likha hua message
+        type: String, 
         required: true
     },
     sentimentScore: {
-        type: Number, // AI calculate karke yahan fill karega (-1 to +1)
+        type: Number, 
         default: 0
     },
     isUrgent: {
-        type: Boolean, // Agar AI ko "Poison" word mile toh true kar dega
+        type: Boolean, 
         default: false
     },
     createdAt: {
